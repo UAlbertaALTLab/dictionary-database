@@ -103,6 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
-# Custom
+# Repository-Specific
+Wolvengrey.toolbox
 /scratch
 /data
+.eslintrc.yml

@@ -2,9 +2,7 @@
 
 The repository contains scripts and documentation for managing the multiple data sources for [ALTLab's][ALTLab] [Plains Cree][Cree] dictionary, which can be viewed online [here][itwewina]. This repository does _not_ (and should not) contain the actual data.
 
-The database uses the [Data Format for Digital Linguistics][DaFoDiL] (<abbr title='Data Format for Digital Linguistics'>DaFoDiL</abbr>) as its underlying data format, a set of recommendations for storing linguistic data in JSON.
-
-_This repository is a work in progress._
+The database uses the [Data Format for Digital Linguistics][DaFoDiL] (DaFoDiL) as its underlying data format, a set of recommendations for storing linguistic data in JSON.
 
 ## Contents
 <!-- TOC -->
@@ -13,6 +11,7 @@ _This repository is a work in progress._
 - [Project Requirements](#project-requirements)
 - [Process](#process)
 - [Style Guide](#style-guide)
+- [Building the Database](#building-the-database)
 
 <!-- /TOC -->
 
@@ -39,13 +38,11 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 
 * Manual input should not be required for aggregating entries. Entries can however be flagged for manual inspection.
 
-* An earlier, still relevant overall background document can be found here: https://docs.google.com/document/d/1uBJtG8WxRbUIBSdeNBynksKQoRImXJoCbEVFcW9HIJw/edit
-
 ## Process
 
 At a high level, the process for aggregating the sources is as follows:
 
-1. **convert** dictionary from original format to a standard one (CSV, TSV, JSON)
+1. **convert** data source from original format to [DaFoDiL][DaFoDiL]
 2. **clean** and normalize the data, while retaining the original data
 3. **import** the data into ALTLab's database using an aggregation algorithm
 4. create the **sqlite3** database
@@ -53,7 +50,21 @@ At a high level, the process for aggregating the sources is as follows:
 
 ## Style Guide
 
-Please see the [style guide](./style-guide.md) (with glossary) for documentation of the lexicographical conventions used in this database.
+Please see the [style guide](./docs/style-guide.md) (with glossary) for documentation of the lexicographical conventions used in this database.
+
+## Building the Database
+
+1. Download the original data source. Currently the only data source that this repo parses is the _Cree: Words_ (CW) database, stored in `crk/dicts/Wolvengrey.toolbox` in the ALTLab repo. **Do not commit this file to git.**
+
+2. Install the dependencies for this repo: `npm install`. This will also add the conversion scripts to the PATH (see next step).
+
+3. Once installed, you can convert individual data sources by running `convert-* <inputPath> <outPath>` from the command line, where `*` stands for the abbreviation of the data source, ex. `convert-cw Wolvengrey.toolbox CW.json`.
+
+4. You can also convert individual data sources by running the conversion scripts as modules. Each conversion script is located in `lib/convert.{ABBR}.js`, where `{ABBR}` stands for the abbreviation of the data source. Each module exports a function which takes two arguments: the path to the data source and the path where you would like the converted data saved (this should have a `.json` extension).
+
+## Tests
+
+Test for this repository are written using Mocha + Chai. The tests check that the conversion scripts are working properly, and test for all known edge cases. The test spec for each conversion script is located alongside that conversion script in `lib`, with the extension `.test.js`. You can run the entire test suite with `npm test`.
 
 <!-- Links -->
 [ALTLab]:     https://github.com/UAlbertaALTLab

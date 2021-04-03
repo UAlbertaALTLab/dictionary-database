@@ -18,6 +18,9 @@ This style guide documents the lexicographical conventions used in the ALT Lab P
   <dt>headword</dt>
   <dd>The word under which a set of related dictionary entries or definitions appears. Used to alphabetize and look up entries.</dd>
 
+  <dt>homograph number</dt>
+  <dd>A number used to distinguish between two different entries whose headwords have the same spelling. This number typically immediately follows the headword in the entry, sometimes in superscript or subscript. itwêwina does not currently use homograph numbers.</dd>
+
   <dt>inflection</dt>
   <dd>The parts of the word that indicate grammatical categories such as tense, aspect, voice, mood, person, number, gender, animacy, etc.</dd>
 
@@ -26,8 +29,12 @@ This style guide documents the lexicographical conventions used in the ALT Lab P
     <p>The form of a lexeme (usually the stem) conventionally used to represent that lexeme.</p>
     <ul>
       <li><b>English example:</b> The lemma for the wordforms <i>am</i>, <i>are</i>, <i>is</i>, <i>was</i>, <i>were</i> is conventionally <i>be</i>.</li>
-      <li><b>Plains Cree example:</b> The lemma for the wordforms <i>nimîcin</i> <q>I eat</q>, <i>kimîcin</i> <q>you eat</q>, and <i>mîciw</i> <q>s/he eats</q> is <i>mîci‑</i> <q>eat</q>.</li>
+      <li><b>Plains Cree example:</b> The lemma for the wordforms <i>nimîcin</i> <q>I eat</q>, <i>kimîcin</i> <q>you eat</q>, and <i>mîciw</i> <q>s/he eats</q> is <i>mîciw</i> <q>s/he eats</q>.</li>
     </ul>
+    <blockquote cite='Svensén. 2009. A handbook of lexicography: The theory and practice of dictionary-making'>
+      <p>The lemma functions as a representative of a linguistic sign; in a dictionary it represents the lexical item described in the individual dictionary entry.</p>
+      <p>(Svensén. 2019. A handbook of lexicography: The theory and practice of dictionary-making)</p>
+    </blockquote>
   </dd>
 
   <dt>lexeme</dt>
