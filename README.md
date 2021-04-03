@@ -56,7 +56,7 @@ Please see the [style guide](./docs/style-guide.md) (with glossary) for document
 
 1. Download the original data source. Currently the only data source that this repo parses is the _Cree: Words_ (CW) database, stored in `crk/dicts/Wolvengrey.toolbox` in the ALTLab repo. **Do not commit this file to git.**
 
-2. Install the dependencies for this repo: `npm install`.
+2. Install the dependencies for this repo: `npm install`. This will also add the conversion scripts to the PATH (see next step).
 
 3. Once installed, you can convert individual data sources by running `convert-* <inputPath> <outPath>` from the command line, where `*` stands for the abbreviation of the data source, ex. `convert-cw Wolvengrey.toolbox CW.json`.
 
