@@ -5,7 +5,7 @@ import program from 'commander';
 
 program
 .arguments(`<inputPath> <outputPath>`)
-.usage(`convert-cw <inputPath> <outputPath>`)
+.usage(`convert-md <inputPath> <outputPath>`)
 .action(convert);
 
 program.parse(process.argv);
