@@ -1,3 +1,17 @@
+# Word Classes
+
+The word classes currently used in itwêwina are as follows (taken from [enums.py](https://github.com/UAlbertaALTLab/cree-intelligent-dictionary/blob/21018addd9e9b5921c27f26b9d7eb4a5a0b2105f/CreeDictionary/utils/enums.py)):
+
+Abbreviation | Word Class
+-------------|-----------
+IPC          | particle
+IPV          | preverb
+N            | noun
+PRON         | pronoun
+V            | verb
+
+# Inflectional Categories
+
 select * FROM API_wordform
 where is_lemma = 1
 and as_is = 0
