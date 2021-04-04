@@ -43,7 +43,7 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 At a high level, the process for aggregating the sources is as follows:
 
 1. **convert** data source from original format to [DaFoDiL][DaFoDiL]
-2. **clean** and normalize the data, while retaining the original data
+2. **clean** and normalize the data (partially handled during Step 1), while retaining the original data
 3. **import** the data into ALTLab's database using an aggregation algorithm
 4. create the **sqlite3** database
 5. create the **FST** LEXC files
@@ -54,7 +54,9 @@ Please see the [style guide](./docs/style-guide.md) (with glossary) for document
 
 ## Building the Database
 
-1. Download the original data source. Currently the only data source that this repo parses is the _Cree: Words_ (CW) database, stored in `crk/dicts/Wolvengrey.toolbox` in the ALTLab repo. **Do not commit this file to git.**
+1. Download the original data sources. These are stored in the private ALTLab repo in `crk/dicts`.
+
+   Currently the only data source that this repo parses is the _Cree: Words_ (CW) database, stored in `crk/dicts/Wolvengrey.toolbox` in the ALTLab repo. **Do not commit these files to git.**
 
 2. Install the dependencies for this repo: `npm install`. This will also add the conversion scripts to the PATH (see next step).
 
@@ -64,7 +66,7 @@ Please see the [style guide](./docs/style-guide.md) (with glossary) for document
 
 ## Tests
 
-Test for this repository are written using Mocha + Chai. The tests check that the conversion scripts are working properly, and test for all known edge cases. The test spec for each conversion script is located alongside that conversion script in `lib`, with the extension `.test.js`. You can run the entire test suite with `npm test`.
+Test for this repository are written using Mocha + Chai. The tests check that the conversion scripts are working properly, and test for known edge cases. There is one test suite for each conversion script, located alongside that conversion script in `lib`, with the extension `.test.js`. You can run the entire test suite with `npm test`.
 
 <!-- Links -->
 [ALTLab]:     https://github.com/UAlbertaALTLab
