@@ -2,6 +2,10 @@
 
 Notes on the Maskwacîs dictionary database.
 
+## General Notes
+
+* The field name `RapidWordsClasses` has "Words" (plural), but the field name `RapidWordIndices` has "Word" (singular).
+
 ## SRO
 
 A transcription of the headword in Standard Roman Orthography (SRO).
@@ -35,10 +39,10 @@ Abbreviation                     | Part of Speech
 ---------------------------------|---------------
 anim pl pron                     | animate plural pronoun
 anim/prefix                      |
-bp                               |
+bp                               | typo: vp
 excl                             | exclamation
 exclamation                      | exclamation
-expr                             |
+expr                             | expression
 fv                               |
 fvp                              |
 gvp                              |
@@ -46,7 +50,7 @@ inan pl pron                     | inanimate plural pronoun
 interj                           | interjection
 interjection                     | interjection
 IPC                              | indeclinable particle
-loc                              |
+loc                              | locative noun
 n                                | noun
 n pl                             | plural-only noun
 n sg                             | singular-only noun
@@ -68,7 +72,7 @@ v                                | verb
 v comb                           |
 v command                        | imperative verb
 v phrase                         |
-v phrase pl                      |
+v phrase pl                      | verb with plural subject
 v pl                             | plural-only verb
 v sg                             | singular-only verb
 vc                               |
@@ -77,7 +81,7 @@ vcp                              |
 vfp                              |
 vgp                              |
 vp                               |
-vp pl.                           |
+vp pl.                           | verb with plural subject
 vpq                              |
 
 ## MeaningInEnglish
@@ -97,7 +101,18 @@ The English definition of the term.
   - Also
   - And
   - Or
-* Senses / definitions are occasionally separated by sense numbers.
+* Senses / definitions are occasionally separated by sense numbers:
+  - **ex:** `posihchikew	ᐳᓯᐦᒋᑫᐤ	vp	1. He is loading. 2. He has a load.`
+* Homographs are sometimes (always?) given separate sense numbers:
+  ```
+  nipiy	ᓂᐱᕀ	n	1. Water.
+  nipiy	ᓂᐱᕀ	n	2. A leaf.
+  ```
+* In at least one case, the use of numbers for multiple senses and the use of numbers for homograph disambiguation conflict:
+  ```
+  pwata	ᐸᐧᑕ	n sg	1. A Sioux Indian. 2. A male pow-wow dancer.
+  pwatak	ᐸᐧᑕᐠ	n pl	2. The Sioux Indians. 2. Male pow-wow dancers.
+  ```
 * Grammatical information: `Animate.` | `Inanimate.` (sometimes lowercase)
 * Part of speech: `noun.` | `verb.` (sometimes with initial capital letter)
 * We need to store 3 versions of the definition:
@@ -110,9 +125,9 @@ The English definition of the term.
 
 ## RapidWordsClasses
 
-A semicolon-delimited list of rapid word classes that apply to this entry. Each class corresponds to a index in the [RapidWordsIndices](#RapidWordsIndices) field.
+A semicolon-delimited list of rapid word classes that apply to this entry. Each class corresponds to a index in the [RapidWordIndices](#RapidWordIndices) field.
 
-## RapidWordsIndices
+## RapidWordIndices
 
 A semicolon-delimited list of indices for the rapid word classes that apply to this entry. Each index corresponds to a rapid words class in the [RapidWordsClasses](#RapidWordsClasses) field.
 
