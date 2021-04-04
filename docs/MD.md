@@ -20,6 +20,66 @@ A transcription of the headword in Standard Roman Orthography (SRO).
 * Some entries are multiword headwords, **ex:** _ayamihew masinahikan_.
 * Imperatives are not always given in their lemma form. This might need to be reconstructed using the FST.
 
+## Syllabics
+
+The transcription of the headword in Cree Syllabics. This transcription follows some of the same conventions as the SRO field. For example, vowel length is not indicated, and unstressed short vowels are represented as /i/, **ex:** _wâpamêw_ is written as `ᐊᐧᐱᒣᐤ` instead of `ᐚᐸᒣᐤ`.
+
+## POS
+
+The part of speech for the entry. Many abbreviations are obvious, but others are opaque and need investigating.
+
+* Some entries do not have a part of speech indicated.
+* There are 47 unique parts of speech in the database. This list will need to be reduced and standardized.
+
+Abbreviation                     | Part of Speech
+---------------------------------|---------------
+anim pl pron                     | animate plural pronoun
+anim/prefix                      |
+bp                               |
+excl                             | exclamation
+exclamation                      | exclamation
+expr                             |
+fv                               |
+fvp                              |
+gvp                              |
+inan pl pron                     | inanimate plural pronoun
+interj                           | interjection
+interjection                     | interjection
+IPC                              | indeclinable particle
+loc                              |
+n                                | noun
+n pl                             | plural-only noun
+n sg                             | singular-only noun
+particle denoting the past tense | particle denoting past tense
+phrase                           | phrase
+prefix                           | prefix
+prefix denoting something happen | prefix denoting something happened
+preverb                          | preverb
+pron                             | pronoun
+pron pl                          | plural pronoun
+pron plural                      | plural pronoun
+pron sing                        | singular pronoun
+ques                             | question
+question                         | question
+reduplicative prefix             | reduplicative prefix
+reply                            | reply
+suffix                           | suffix
+v                                | verb
+v comb                           |
+v command                        | imperative verb
+v phrase                         |
+v phrase pl                      |
+v pl                             | plural-only verb
+v sg                             | singular-only verb
+vc                               |
+vc pl                            |
+vcp                              |
+vfp                              |
+vgp                              |
+vp                               |
+vp pl.                           |
+vpq                              |
+
 ## MeaningInEnglish
 
 The English definition of the term.
@@ -47,3 +107,23 @@ The English definition of the term.
     - Store this in the main entry, on the sense from MD.
   - _user_: original, except with Cree words corrected
     - Store this in the main entry.
+
+## RapidWordsClasses
+
+A semicolon-delimited list of rapid word classes that apply to this entry. Each class corresponds to a index in the [RapidWordsIndices](#RapidWordsIndices) field.
+
+## RapidWordsIndices
+
+A semicolon-delimited list of indices for the rapid word classes that apply to this entry. Each index corresponds to a rapid words class in the [RapidWordsClasses](#RapidWordsClasses) field.
+
+## English_POS
+
+The English definition, with each word tagged for part of speech.
+
+* The tag is appended to the end of each word in the format `_{TAG}`, **ex:** `The_DET`, indicating that the word _The_ is a determiner.
+* Items with no tag have the appended underscore but no tag.
+* Punctuation is also tagged with just the underscore, and no tag.
+
+## English_Search
+
+Contains a simplified version of the definition. The use of this field and how it was generated is currently unclear.
