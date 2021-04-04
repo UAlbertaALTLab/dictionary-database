@@ -1,5 +1,7 @@
 # Maskwacîs Dictionary
 
+Notes on the Maskwacîs dictionary database.
+
 ## General Notes
 
 The TSV version of the Maskwacîs dictionary in the ALTLab repo also has semantic classifications, using the Rapid Words ontology.

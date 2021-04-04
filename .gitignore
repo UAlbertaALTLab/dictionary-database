@@ -104,7 +104,8 @@ dist
 .tern-port
 
 # Repository-Specific
-Wolvengrey.toolbox
 /scratch
 /data
 .eslintrc.yml
+Maskwacis.tsv
+Wolvengrey.toolbox
