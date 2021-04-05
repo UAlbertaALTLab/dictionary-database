@@ -107,6 +107,8 @@ dist
 /scratch
 /data
 .eslintrc.yml
-Maskwacis.tsv
 nodemon.json
+Maskwacis.json
+Maskwacis.tsv
+Wolvengrey.json
 Wolvengrey.toolbox
