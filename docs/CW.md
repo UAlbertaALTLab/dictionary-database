@@ -68,9 +68,7 @@ Alternative spellings of the word.
 
 ## `\cat` **usage categories**
 
-Categories of usage, **ex:** `baby talk`, `traditional`, `borrowing`, `Christian term`.
-
-[Currently this is a multiple field, but I'm asking Arok to combine the one case this happens.]
+Categories of usage, **ex:** `baby talk`, `traditional`, `borrowing`, `Christian term`. Currently this field may appear multiple times, but Arok is fine with them being combined. [3/30/21]
 
 ## `\def` **definition** [multiple]
 
@@ -123,7 +121,7 @@ A definition for the entry.
 
 ## `\dl` **dialect** [multiple]
 
-Lists the dialects that the entry belongs to.
+Lists the dialects that the entry belongs to. Each dialect should get its own `\dl` field; they should not be combined into a single field.
 
 Abbreviation | Dialect              | Glottocode | ISO 639-3
 -------------|----------------------|------------|----------
@@ -146,17 +144,13 @@ A list of forms showing the derivational breakdown of the word, each separated b
 
 The date that the entry was last updated.
 
-## `\fststem` **FST stem**
-
-This field is _not_ in the Toolbox database. This data only lives in the TSV version of this file. There are somewhere in the range of ~1,500 entries total where this information has been added. This data should be retrieved and added to the main entry in the dictionary database. Forms marked as "CHECK" are ones that need FST stems.
-
 ## `\gl` **gloss** [multiple]
 
 The gloss fields are really just used for English reversal entries. The FST relies on this field for diminutives. This information should be extracted into its own field.
 
-## `\gr1` **grammatical information** [multiple]
+## `\gr1` **grammatical information**
 
-A structured field containing information about the grammatical categories of the entry, **ex:** `singular`, `diminutive`.
+A structured field containing information about the grammatical categories of the entry, **ex:** `singular`, `diminutive`. Entries with different sets of grammatical information should be separated into distinct entries (i.e. this field should never appear twice in an entry).
 
 * `N`: `singular` | `plural` (occasionally other values)
 * secondary derivation: `reciprocal` | `diminutive` | etc.
@@ -168,9 +162,7 @@ A freeform field for any other grammatical notes about the entry.
 
 ## `\his` **historical note**
 
-Historical notes about the entry.
-
-[Currently this is a multiple field, but I'm asking Arok to combine the 2 cases this happens.]
+Historical notes about the entry. Currently this field can occur multiple times, but Arok agrees that this can be combined into a single field. [3/30/21]
 
 ## `\mrp` **morphemes** [multiple]
 
@@ -197,15 +189,15 @@ Arok is in the process of adding this field to the database. [2021/03/16] This f
 
 It's unclear how this field is to be interpreted when there are multiple morphemes in `\mrp`. A good default assumption is that `\mrp2` only shows the morpheme breakdown for the stem in `\mrp` (so `\mrp2` is essentially the stem components—initial, medial, and final).
 
-## `\new` **neologism** [multiple]
+## `\new` **new since 2001 publication** [multiple]
 
-The value of this field is always `new` (with perhaps one exception; see below). This field seems to function as a Boolean, indicating (presumably) that the entry is a neologism. It might also be a field Arok uses for himself, to keep track of which entries are new.
+The value of this field is always `new` (with perhaps one exception; see below). This field indicates that the entry was added after the publication of the 2001 edition of the _Cree: Words_ dictionary was published.
 
-In at least one case, this field appears multiple times, with one of the fields blank, and the other containing `new`.
+Not all entries since 2001 are marked as new. These could potentially be determined based on information in the `\src` field. In at least one case, this field appears multiple times, with one of the fields blank, and the other containing `new`.
 
 ## `\ps` **part of speech** [multiple]
 
-This field really combines information on part of speech, morpheme type, and inflectional class.
+This field really combines information on part of speech, morpheme type, and inflectional class. If an entry has multiple `\ps` fields, those should each be given their own sense (with the same definition, if necessary).
 
 1. general word class (`N` | `V` | etc.)
 2. specific word class (`VTA` | `VTI` | `VAI` | `VII` | etc.)
