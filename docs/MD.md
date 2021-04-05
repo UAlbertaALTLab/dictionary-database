@@ -71,8 +71,8 @@ v phrase                         |
 v phrase pl                      |
 v pl                             | plural-only verb
 v sg                             | singular-only verb
-vc                               |
-vc pl                            |
+vc                               | imperative verb
+vc pl                            | plural imperative verb
 vcp                              |
 vfp                              |
 vgp                              |
