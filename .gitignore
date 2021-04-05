@@ -108,4 +108,5 @@ dist
 /data
 .eslintrc.yml
 nodemon.json
+Maskwacis.tsv
 Wolvengrey.toolbox
