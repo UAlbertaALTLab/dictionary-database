@@ -9,7 +9,7 @@ A transcription of the headword in Standard Roman Orthography (SRO).
 * Occasionally includes punctuation, **ex:** _ah?_ 'What? What did you say?'.
 * Vowel length is indicated with double vowels rather than macrons or circumflexes, **ex:** `aa`.
 * Vowel length is not consistently indicated. Many long vowels are written as short vowels.
-* `<i>` is (sometimes?/always?) used for unstressed short vowels (or maybe just unstressed short /a/?).
+* `<i>` is sometimes used for unstressed short vowels (or maybe just unstressed short /a/?).
   - **ex:** MD _wapimew_ = SRO _wâpamêw_
 * /h/ is sometimes omitted before stops (/c, p, t, k/).
 * /ou/ is written `<iw>` or `<ow>`.
@@ -18,7 +18,7 @@ A transcription of the headword in Standard Roman Orthography (SRO).
   - **ex:** MD _mitsow_ = SRO _mîcisow_
 * Very occasionally includes a hyphen.
 * Some entries are multiword headwords, **ex:** _ayamihew masinahikan_.
-* Imperatives are not always given in their lemma form. This might need to be reconstructed using the FST.
+* There isn't always a lemma entry for imperative verb entries. In some cases we may need to reconstruct the lemma ourselves.
 
 ## Syllabics
 
@@ -110,15 +110,15 @@ The English definition of the term.
 
 ## RapidWordsClasses
 
-A semicolon-delimited list of rapid word classes that apply to this entry. Each class corresponds to a index in the [RapidWordsIndices](#RapidWordsIndices) field.
+A semicolon-delimited list of rapid word classes that apply to this entry. Each class corresponds to a index in the [RapidWordsIndices](#RapidWordsIndices) field. The Rapid Words classes are given at the second-highest and deepest possible level of the Rapid Words hierarchy (to the extent possible). Entries may have been judged to fall under more than one Rapid Words class (at the second-highest and deepest level in the Rapid Words hierarchy).
 
 ## RapidWordsIndices
 
-A semicolon-delimited list of indices for the rapid word classes that apply to this entry. Each index corresponds to a rapid words class in the [RapidWordsClasses](#RapidWordsClasses) field.
+A semicolon-delimited list of indices for the rapid word classes that apply to this entry. Each index corresponds to a rapid words class in the [RapidWordsClasses](#RapidWordsClasses) field. The indices are given at the second highest and deepest possible levels in the Rapid Words hierarchy, and an entry can belong under multiple distinct classes.
 
 ## English_POS
 
-The English definition, with each word tagged for part of speech.
+The English definition, with each word tagged for part of speech. The parsing was undertaken with the publicly available Stanford parser. That provides a lemma for word-forms, which is provided for verbs (and nouns, I think [AA]).
 
 * The tag is appended to the end of each word in the format `_{TAG}`, **ex:** `The_DET`, indicating that the word _The_ is a determiner.
 * Items with no tag have the appended underscore but no tag.
@@ -126,4 +126,4 @@ The English definition, with each word tagged for part of speech.
 
 ## English_Search
 
-Contains a simplified version of the definition. The use of this field and how it was generated is currently unclear.
+Contains a simplified version of the definition. For verbs, this means providing an English-like entry starting with the infinitive form of the verb (using the lemma, and excluding the initial subject pronoun). The use of this field and how it was generated is currently unclear.
