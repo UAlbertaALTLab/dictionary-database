@@ -39,7 +39,9 @@ rules:
     - warn
     - 3
   max-params: warn
-  max-statements: warn
+  max-statements:
+    - warn
+    - 15
   max-statements-per-line:
     - warn
     - max: 2
