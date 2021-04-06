@@ -2,9 +2,8 @@
 {"key":"kakito2","lemma":{"sro":"kâkito"},"senses":[],"test":"assigns homograph numbers"}
 {"key":"kahtiskawew","lemma":{"sro":"kâhtiskawêw"},"senses":[],"test":"assigns keys to each entry"}
 {"dialects":["plai1258","swam1239"],"key":"","lemma":{},"senses":[],"test":"combines multiple dialect codes"}
-{"key":"y","lemma":{"sro":"y"},"senses":[],"test":"converts <ń> to <y>"}
-{"key":"y2","lemma":{"sro":"y"},"senses":[],"test":"converts <ý> to <y>"}
 {"dialects":["nort2960"],"key":"2","lemma":{},"senses":[],"test":"converts dialects to Glottocodes"}
+{"key":"acicipayihow","lemma":{"sro":"acicipaýihow"},"senses":[],"test":"copies the SRO field verbatim"}
 {"key":"3","lemma":{"syll":"ᐊᒑᐦᑯᐢ  ᐁᑳ  ᑳ ᐋᐦᒌᐟ"},"senses":[],"test":"copies the Syllabics field verbatim"}
 {"definition":"North Star, Polaris; [lit: \"star that does not move\"]","key":"4","lemma":{},"senses":[{"definition":"North Star, Polaris"}],"test":"copies the original definition field verbatim","literalMeaning":"star that does not move","notes":[{"noteType":"general","text":"lit: \"star that does not move\""}]}
 {"definition":"not [cf. nama]","key":"5","lemma":{},"senses":[{"definition":"not","notes":[{"noteType":"general","text":"cf. nama"}]}],"test":"extracts compare relations: [cf. XXX]","lexicalRelations":[{"key":"nama","lemma":{"sro":"nama"},"relation":"compare"}]}
@@ -16,6 +15,4 @@
 {"definition":"dock [Lt. Rumex sp.; literally: \"yellow-root\"]","key":"11","lemma":{},"senses":[{"definition":"dock","scientificName":"Rumex sp.","notes":[{"noteType":"general","text":"Lt. Rumex sp."},{"noteType":"general","text":"literally: \"yellow-root\""}]}],"test":"extracts multiple notes from a parenthetical","literalMeaning":"yellow-root"}
 {"definition":"Christmas moon; December; literally: \"God-day moon, Christmas moon\"","key":"12","lemma":{},"senses":[{"definition":"Christmas moon"},{"definition":"December"}],"test":"extracts unbracketed literal definitions","literalMeaning":"God-day moon, Christmas moon"}
 {"definition":"insistently; [in negative clauses:] (not) necessarily","key":"13","lemma":{},"senses":[{"definition":"insistently"},{"definition":"(not) necessarily","usages":["in negative clauses"],"notes":[{"noteType":"general","text":"in negative clauses:"}]}],"test":"extracts usage notes"}
-{"key":"e","lemma":{"sro":"ê"},"senses":[],"test":"NFC normalizes"}
-{"lines":["\\test produces an error object for invalid SRO characters","\\sro  z"],"message":"Character <z> at position 0 is invalid","name":"ParseError"}
 {"definition":"it is a star; s/he is a star (e.g. in movies, sports, music, etc.)","key":"14","lemma":{},"senses":[{"definition":"it is a star"},{"definition":"s/he is a star (e.g. in movies, sports, music, etc.)"}],"test":"separates definitions by semicolons"}
