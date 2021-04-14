@@ -107,5 +107,6 @@ dist
 /scratch
 /data
 .eslintrc.js
+nodemon.json
 Maskwacis.tsv
 Wolvengrey.toolbox

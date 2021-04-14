@@ -22,7 +22,7 @@ A transcription of the headword in Standard Roman Orthography (SRO).
 
 ## Syllabics
 
-The transcription of the headword in Cree Syllabics. This transcription follows some of the same conventions as the SRO field. For example, vowel length is not indicated, and unstressed short vowels are represented as /i/, **ex:** _wâpamêw_ is written as `ᐊᐧᐱᒣᐤ` instead of `ᐚᐸᒣᐤ`.
+The transcription of the headword in Cree Syllabics. This field was programmatically generated from the SRO field, meaning that it follows the same conventions as the SRO field. For example, vowel length is not indicated, and unstressed short vowels are represented as /i/, **ex:** _wâpamêw_ is written as `ᐊᐧᐱᒣᐤ` instead of `ᐚᐸᒣᐤ`.
 
 ## POS
 
