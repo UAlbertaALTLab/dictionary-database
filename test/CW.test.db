@@ -14,14 +14,11 @@
 \dl   Cree: pC
 \dl   Cree: sC
 
-\test converts <ń> to <y>
-\sro  ń
-
-\test converts <ý> to <y>
-\sro  ý
-
 \test converts dialects to Glottocodes
 \dl   Cree: npC
+
+\test copies the SRO field verbatim
+\sro  acicipaýihow
 
 \test copies the Syllabics field verbatim
 \syl  ᐊᒑᐦᑯᐢ  ᐁᑳ  ᑳ ᐋᐦᒌᐟ
@@ -55,12 +52,6 @@
 
 \test extracts usage notes
 \def  insistently; [in negative clauses:] (not) necessarily
-
-\test NFC normalizes
-\sro  ê
-
-\test produces an error object for invalid SRO characters
-\sro  z
 
 \test separates definitions by semicolons
 \def  it is a star; s/he is a star (e.g. in movies, sports, music, etc.)
