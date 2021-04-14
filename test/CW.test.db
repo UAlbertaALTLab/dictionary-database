@@ -17,6 +17,9 @@
 \test converts dialects to Glottocodes
 \dl   Cree: npC
 
+\test copies the SRO field verbatim
+\sro  acicipaýihow
+
 \test copies the Syllabics field verbatim
 \syl  ᐊᒑᐦᑯᐢ  ᐁᑳ  ᑳ ᐋᐦᒌᐟ
 
