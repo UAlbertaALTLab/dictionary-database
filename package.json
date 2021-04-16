@@ -28,7 +28,7 @@
     "convert-cw": "./bin/convert.CW.js"
   },
   "devDependencies": {
-    "@digitallinguistics/toolbox2json": "^1.2.0",
+    "@digitallinguistics/toolbox2json": "^2.0.0",
     "chai": "^4.3.4",
     "commander": "^7.2.0",
     "eslint": "^7.22.0",
