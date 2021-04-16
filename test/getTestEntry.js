@@ -8,6 +8,6 @@ import { expect } from 'chai';
  */
 export default function getTestEntry(data, testTitle) {
   const matchedEntry = data.find(entry => entry.test === testTitle);
-  if (!matchedEntry) expect.fail(`No test database entry found for test "${testTitle}"`);
+  if (!matchedEntry) expect.fail(`No test database entry found for test "${ testTitle }"`);
   return matchedEntry;
 }

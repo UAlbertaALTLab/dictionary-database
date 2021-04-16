@@ -7,9 +7,6 @@
 \test assigns homograph numbers
 \sro  kâkito
 
-\test assigns keys to each entry
-\sro  kâhtiskawêw
-
 \test combines multiple dialect codes
 \dl   Cree: pC
 \dl   Cree: sC
@@ -17,14 +14,14 @@
 \test converts dialects to Glottocodes
 \dl   Cree: npC
 
+\test copies the original definition field verbatim
+\def  North Star, Polaris; [lit: "star that does not move"]
+
 \test copies the SRO field verbatim
 \sro  acicipaýihow
 
 \test copies the Syllabics field verbatim
 \syl  ᐊᒑᐦᑯᐢ  ᐁᑳ  ᑳ ᐋᐦᒌᐟ
-
-\test copies the original definition field verbatim
-\def  North Star, Polaris; [lit: "star that does not move"]
 
 \test extracts compare relations: [cf. XXX]
 \def  not [cf. nama]
@@ -41,11 +38,11 @@
 \test extracts Latin terms
 \def  black ash [Lt. Fraximus nigra]
 
-\test extracts multiple parentheticals
-\def  young macôhow, Bad Owl's son [male name]; [plural:] Bad Owl's family, members of Bad Owl's family
-
 \test extracts multiple notes from a parenthetical
 \def  dock [Lt. Rumex sp.; literally: "yellow-root"]
+
+\test extracts multiple parentheticals
+\def  young macôhow, Bad Owl's son [male name]; [plural:] Bad Owl's family, members of Bad Owl's family
 
 \test extracts unbracketed literal definitions
 \def  Christmas moon; December; literally: "God-day moon, Christmas moon"

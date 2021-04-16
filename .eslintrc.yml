@@ -7,6 +7,7 @@ parserOptions:
 
 env:
   es2021: true
+  mocha: true
   shared-node-browser: true
 
 reportUnusedDisableDirectives: true
@@ -143,6 +144,7 @@ rules:
         - event
         - resolve
         - reject
+        - test
   no-tabs: warn
   no-template-curly-in-string: warn
   no-throw-literal: error
