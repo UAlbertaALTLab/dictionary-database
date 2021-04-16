@@ -1,5 +1,11 @@
 env:
   mocha: true
 
+plugins:
+  - chai-friendly
+
+extends:
+  - plugin:chai-friendly/recommended
+
 rules:
   camelcase: off
