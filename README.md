@@ -54,6 +54,13 @@ At a high level, the process for aggregating the sources is as follows:
 
 Please see the [style guide](./docs/style-guide.md) (with glossary) for documentation of the lexicographical conventions used in this database.
 
+## The Database
+
+The database is located in the private ALTLab repo at `crk/dicts/database-{hash}.ndjson`, where `{hash}` is an SHA1 hash of the database. This repo includes the following JavaScript utilities for working with the database, both located in `lib/utlities`.
+
+* `loadEntries.js`: Reads all the entries from the database (or any NDJSON file) into memory and returns a Promise that resolves to an Array of the entries for further querying and manipulation.
+* `saveDatabase.js`: Accepts an Array of database entries and saves it to the specified path as an NDJSON file with a trailing SHA1 hash.
+
 ## Building the Database
 
 1. Download the original data sources. These are stored in the private ALTLab repo in `crk/dicts`. **Do not commit these files to git.**
