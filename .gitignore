@@ -110,5 +110,6 @@ dist
 nodemon.json
 Maskwacis.json
 Maskwacis.tsv
+MD-CW-mappings.tsv
 Wolvengrey.json
 Wolvengrey.toolbox
