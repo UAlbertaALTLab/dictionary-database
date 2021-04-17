@@ -5,14 +5,15 @@ The repository contains scripts and documentation for managing the multiple data
 The database uses the [Data Format for Digital Linguistics][DaFoDiL] (DaFoDiL) as its underlying data format, a set of recommendations for storing linguistic data in JSON.
 
 ## Contents
-<!-- TOC -->
 
+<!-- TOC -->
 - [Sources](#sources)
 - [Project Requirements](#project-requirements)
 - [Process](#process)
 - [Style Guide](#style-guide)
+- [The Database](#the-database)
 - [Building the Database](#building-the-database)
-
+- [Tests](#tests)
 <!-- /TOC -->
 
 ## Sources
@@ -61,7 +62,7 @@ The database is located in the private ALTLab repo at `crk/dicts/database-{hash}
 * `loadEntries.js`: Reads all the entries from the database (or any NDJSON file) into memory and returns a Promise that resolves to an Array of the entries for further querying and manipulation.
 * `saveDatabase.js`: Accepts an Array of database entries and saves it to the specified path as an NDJSON file with a trailing SHA1 hash. Note that by default the hash will be inserted into the provided filename: passing `database.ndjson` as the first argument to `saveDatabase.js` will save the file to `database-{hash}.ndjson`. You can disable this by passing `hash: false` as an option (in the options hash as the third argument to the function).
 
-## Building the Database
+## Building & Updating the Database
 
 1. Download the original data sources. These are stored in the private ALTLab repo in `crk/dicts`. **Do not commit these files to git.**
 
@@ -73,7 +74,13 @@ The database is located in the private ALTLab repo at `crk/dicts/database-{hash}
 
 3. Once installed, you can convert individual data sources by running `convert-* <inputPath> <outPath>` from the command line, where `*` stands for the abbreviation of the data source, ex. `convert-cw Wolvengrey.toolbox CW.ndjson`.
 
-4. You can also convert individual data sources by running the conversion scripts as modules. Each conversion script is located in `lib/convert.{ABBR}.js`, where `{ABBR}` stands for the abbreviation of the data source. Each module exports a function which takes two arguments: the path to the data source and optionally the path where you would like the converted data saved (this should have a `.ndjson` extension). Each module returns an array of the converted entries as well.
+4. You can also convert individual data sources by running the conversion scripts as modules. Each conversion script is located in `lib/convert/{ABBR}.js`, where `{ABBR}` is the abbreviation for the data source. Each module exports a function which takes two arguments: the path to the data source and optionally the path where you would like the converted data saved (this should have a `.ndjson` extension). Each module returns an array of the converted entries as well.
+
+5. Once the individual data sources are converted to JSON, you can import them into the dictionary database using their individual import scripts. These are located in `/lib/import/{ABBR}.js`, where `{ABBR}` is the abbreviation for the data source.
+
+  Entries from individual sources are **not** imported as main entries in the ALTLab database. Instead they are stored as subentries (using the `alternativeAnalyses` field). The import script merely matches entries from individual sources to a main entry, or creates a main entry if none exists. An aggregation script then does the work of combining information from each of the subentries into a main entry (see the next step).
+
+6. (_Forthcoming_) [How to run the aggregation script that combines subentries into a single main entry.]
 
 ## Tests
 
