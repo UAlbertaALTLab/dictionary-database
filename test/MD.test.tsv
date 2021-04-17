@@ -1,4 +1,6 @@
 test	SRO	Syllabics	POS	MeaningInEnglish	RapidWordsClasses	RapidWordIndices	English_POS	English_Search
+assigns homograph numbers	isiwepinikew	ᐃᓯᐁᐧᐱᓂᑫᐤ	v	1. That's how he does things.	do; general_words	9.1.2; 9.1	1_NUM ._ That_DET 's#be_V how#how_ADV he_PRON_SUBJ does#do_V things#thing_N ._	1. That's how he does things.
+assigns homograph numbers	isiwepinikew	ᐃᓯᐁᐧᐱᓂᑫᐤ	v	2. That's how he throws things.	carry; move_something; throw	7.3.1; 7.3; 7.3.1.1	2_NUM ._ That_DET 's#be_V how#how_ADV he_PRON_SUBJ throws#throw_V things#thing_N ._	2. That's how he throws things.
 copies the English_POS field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
 copies the English_Search field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
 copies the POS field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
