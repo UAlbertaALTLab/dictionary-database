@@ -22,11 +22,11 @@
   },
   "type": "module",
   "scripts": {
-    "test": "mocha lib/*.test.js"
+    "test": "mocha lib/**/*.test.js"
   },
   "bin": {
-    "convert-cw": "./bin/convert.CW.js",
-    "convert-md": "./bin/convert.MD.js"
+    "convert-cw": "./bin/convert/CW.js",
+    "convert-md": "./bin/convert/MD.js"
   },
   "devDependencies": {
     "@digitallinguistics/toolbox2json": "^2.0.0",

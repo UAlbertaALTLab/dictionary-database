@@ -30,6 +30,8 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 * _The Student's Dictionary of Literary Plains Cree, Based on Contemporary Texts_
   - This source has already been integrated into _Cree: Words_.
 
+Another important data source is @katieschmirler's mappings from MD entries to CW entries.
+
 ## Project Requirements
 
 * The field data from the original dictionaries should be retained in its original form, and preferably even incorporated into ALTLab's database in an unobtrusive way.
@@ -56,6 +58,7 @@ Please see the [style guide](./docs/style-guide.md) (with glossary) for document
 
 1. Download the original data sources. These are stored in the private ALTLab repo in `crk/dicts`. **Do not commit these files to git.**
 
+  * MD > CW mappings: `MD-CW-mappings.tsv`
   * _Cree: Words_: `Wolvengrey.toolbox`
   * Maskwacîs dictionary: `Maskwacis.tsv`
 
