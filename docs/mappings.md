@@ -22,3 +22,7 @@ There are several types of matches:
 * narrow
 * same
 * similar
+
+## Using the Mappings
+
+The utility script `lib/utilities/getMappings.js` reads the MD > CW mappings file and returns a JavaScript Map of the records in the mappings TSV. The keys for the map are the MD headwords.
