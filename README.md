@@ -54,15 +54,16 @@ Please see the [style guide](./docs/style-guide.md) (with glossary) for document
 
 ## Building the Database
 
-1. Download the original data sources. These are stored in the private ALTLab repo in `crk/dicts`.
+1. Download the original data sources. These are stored in the private ALTLab repo in `crk/dicts`. **Do not commit these files to git.**
 
-   Currently the only data source that this repo parses is the _Cree: Words_ (CW) database, stored in `crk/dicts/Wolvengrey.toolbox` in the ALTLab repo. **Do not commit these files to git.**
+  * _Cree: Words_: `Wolvengrey.toolbox`
+  * Maskwacîs dictionary: `Maskwacis.tsv`
 
 2. Install the dependencies for this repo: `npm install`. This will also add the conversion scripts to the PATH (see next step).
 
 3. Once installed, you can convert individual data sources by running `convert-* <inputPath> <outPath>` from the command line, where `*` stands for the abbreviation of the data source, ex. `convert-cw Wolvengrey.toolbox CW.json`.
 
-4. You can also convert individual data sources by running the conversion scripts as modules. Each conversion script is located in `lib/convert.{ABBR}.js`, where `{ABBR}` stands for the abbreviation of the data source. Each module exports a function which takes two arguments: the path to the data source and the path where you would like the converted data saved (this should have a `.json` extension).
+4. You can also convert individual data sources by running the conversion scripts as modules. Each conversion script is located in `lib/convert.{ABBR}.js`, where `{ABBR}` stands for the abbreviation of the data source. Each module exports a function which takes two arguments: the path to the data source and optionally the path where you would like the converted data saved (this should have a `.json` extension). Each module returns an array of the converted entries as well.
 
 ## Tests
 
