@@ -17,6 +17,9 @@
 \test copies the original definition field verbatim
 \def  North Star, Polaris; [lit: "star that does not move"]
 
+\test copies the POS field verbatim
+\ps   VAI-1
+
 \test copies the SRO field verbatim
 \sro  acicipaýihow
 
