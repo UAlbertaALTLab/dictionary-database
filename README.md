@@ -82,7 +82,7 @@ To build and/or update the database, follow the steps below. Each of these steps
 
   You can also import individual data sources by running the import scripts as modules. Each import script is located in `/lib/import/{ABBR}.js`, where `{ABBR}` is the abbreviation for the data source.
 
-  Entries from individual sources are **not** imported as main entries in the ALTLab database. Instead they are stored as subentries (using the `alternativeAnalyses` field). The import script merely matches entries from individual sources to a main entry, or creates a main entry if none exists. An aggregation script then does the work of combining information from each of the subentries into a main entry (see the next step).
+  Entries from individual sources are **not** imported as main entries in the ALTLab database. Instead they are stored as subentries (using the `dataSources` field). The import script merely matches entries from individual sources to a main entry, or creates a main entry if none exists. An aggregation script then does the work of combining information from each of the subentries into a main entry (see the next step).
 
 5. (_Forthcoming_) [How to run the aggregation script that combines subentries into a single main entry.]
 
