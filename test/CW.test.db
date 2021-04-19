@@ -14,6 +14,10 @@
 \test converts dialects to Glottocodes
 \dl   Cree: npC
 
+\test copies the glosses as an Array
+\gl   star
+\gl   little
+
 \test copies the original definition field verbatim
 \def  North Star, Polaris; [lit: "star that does not move"]
 
