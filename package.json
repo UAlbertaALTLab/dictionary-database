@@ -22,16 +22,20 @@
   },
   "type": "module",
   "scripts": {
-    "test": "mocha lib/*.test.js"
+    "test": "mocha lib/**/*.test.js"
   },
   "bin": {
-    "convert-cw": "./bin/convert.CW.js"
+    "convert-cw": "./bin/convert-CW.js",
+    "convert-md": "./bin/convert-MD.js",
+    "import-cw": "./bin/import-CW.js"
   },
   "devDependencies": {
-    "@digitallinguistics/toolbox2json": "^1.2.0",
+    "@digitallinguistics/toolbox2json": "^2.0.0",
     "chai": "^4.3.4",
     "commander": "^7.2.0",
+    "csv-parse": "^4.15.3",
     "eslint": "^7.22.0",
+    "eslint-plugin-chai-friendly": "^0.6.0",
     "mocha": "^8.3.2",
     "ndjson": "^2.0.0"
   },

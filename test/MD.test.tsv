@@ -1,0 +1,19 @@
+test	SRO	Syllabics	POS	MeaningInEnglish	RapidWordsClasses	RapidWordIndices	English_POS	English_Search
+assigns homograph numbers	isiwepinikew	ᐃᓯᐁᐧᐱᓂᑫᐤ	v	1. That's how he does things.	do; general_words	9.1.2; 9.1	1_NUM ._ That_DET 's#be_V how#how_ADV he_PRON_SUBJ does#do_V things#thing_N ._	1. That's how he does things.
+assigns homograph numbers	isiwepinikew	ᐃᓯᐁᐧᐱᓂᑫᐤ	v	2. That's how he throws things.	carry; move_something; throw	7.3.1; 7.3; 7.3.1.1	2_NUM ._ That_DET 's#be_V how#how_ADV he_PRON_SUBJ throws#throw_V things#thing_N ._	2. That's how he throws things.
+copies the English_POS field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+copies the English_Search field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+copies the POS field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+copies the SRO field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+copies the Syllabics field verbatim	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+determines animacy: animate	sikopatinew	ᓯᑯᐸᑎᓀᐤ	vp	He strains him. Animate.	food; food_preparation; occupation; working_with_water	5.2; 5.2.1; 6.6; 6.6.7	he_PRON_SUBJ strains#strain_V him#he_PRON ._ Animate#Animate_N ._	strain him. Animate.
+determines animacy: inanimate	itamohtaw	ᐃᑕᒧᐦᑕᐤ	v	He attaches it like so (inanimate).	arrange; join_attach	7.5; 7.5.2	he_PRON_SUBJ attaches#attach_V it#it_PRON like_PREP so#so_ADV (_ inanimate#inanimate_ADJ )_ ._	attach it like so (inanimate).
+removes basic animacy descriptions from the definition	sikopatinew	ᓯᑯᐸᑎᓀᐤ	vp	He strains him. Animate.	food; food_preparation; occupation; working_with_water	5.2; 5.2.1; 6.6; 6.6.7	he_PRON_SUBJ strains#strain_V him#he_PRON ._ Animate#Animate_N ._	strain him. Animate.
+removes parenthetical animacy descriptions from the definition	itamohtaw	ᐃᑕᒧᐦᑕᐤ	v	He attaches it like so (inanimate).	arrange; join_attach	7.5; 7.5.2	he_PRON_SUBJ attaches#attach_V it#it_PRON like_PREP so#so_ADV (_ inanimate#inanimate_ADJ )_ ._	attach it like so (inanimate).
+stores Rapid Words classes in Sense.semanticDomains	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+stores Rapid Words indices in Sense.semanticIndices	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+stores the original definition on the entry	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+stores the original RapidWordsClasses on the entry	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+stores the original RapidWordIndices on the entry	wapimew	ᐊᐧᐱᒣᐤ	vp	He sees him.	see; sense_perceive	2.3.1; 2.3	he_PRON_SUBJ sees#see_V him#he_PRON ._	see him.
+separates multiple senses	pwata	ᐸᐧᑕ	n sg	1. A Sioux Indian. 2. A male pow-wow dancer.	dance; family_clan; relationships; social_activity	4.2.4; 4.1.9.8; 4.1; 4.2	1_NUM ._ A_DET Sioux#Sioux_N Indian#Indian_N ._ 2_NUM ._ A_DET male#male_ADJ pow-wow#pow-wow_ADJ dancer#dancer_N ._	1. A Sioux Indian. 2. A male pow-wow dancer.
+separates multiple senses for homographs	pwatak	ᐸᐧᑕᐠ	n pl	2. The Sioux Indians. 2. Male pow-wow dancers.	dance; family_clan; relationships; social_activity	4.2.4; 4.1.9.8; 4.1; 4.2	2_NUM ._ The_DET Sioux#Sioux_N Indians#Indians_N ._ 2_NUM ._ Male#male_ADJ pow-wow#pow-wow_ADJ dancers#dancer_N ._	2. The Sioux Indians. 2. Male pow-wow dancers.
