@@ -47,9 +47,10 @@ At a high level, the process for aggregating the sources is as follows:
 
 1. **convert** data source from original format to [DaFoDiL][DaFoDiL]
 2. **clean** and normalize the data (partially handled during Step 1), while retaining the original data
-3. **import** the data into ALTLab's database using an aggregation algorithm
-4. create the **sqlite3** database
-5. create the **FST** LEXC files
+3. **import** the data into ALTLab's database using an aggregation algorithm (also does more data cleaning)
+4. create **outputs**:
+   - the **sqlite3** database for itwêwina
+   - the **FST** LEXC files
 
 ## Style Guide
 
@@ -86,11 +87,15 @@ To build and/or update the database, follow the steps below. Each of these steps
 
 5. (_Forthcoming_) [How to run the aggregation script that combines subentries into a single main entry.]
 
-For convenience, you can perform all the above steps with a single command in the terminal: `npm run build <dataDir>` | `yarn build <dataDir>`, where `<dataDir>` is the directory where the data sources and ALTLab database are stored. In order for this command to work, you will need each of the following files to be present in the `<dataDir>` directory, with these exact filenames:
+For convenience, you can perform all the above steps with a single command in the terminal: `npm run build` | `yarn build`. In order for this command to work, you will need each of the following files to be present in the `/data` directory, with these exact filenames:
 
 * `MD-CW-mappings.tsv`
 * `Maskwacis.tsv`
 * `Wolvengrey.toolbox`
+
+The database will be written to `data/database.ndjson`.
+
+You can also run this script as a JavaScript module. It is located in `lib/buildDatabase.js`.
 
 ## Tests
 

@@ -107,6 +107,7 @@ dist
 /scratch
 /data
 .eslintrc.js
+CW.ndjson
 database.json
 database.ndjson
 database-*.json
@@ -115,6 +116,7 @@ nodemon.json
 Maskwacis.json
 Maskwacis.ndjson
 Maskwacis.tsv
+MD.ndjson
 MD-CW-mappings.tsv
 Wolvengrey.json
 Wolvengrey.ndjson
