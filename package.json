@@ -28,7 +28,8 @@
   "bin": {
     "convert-cw": "./bin/convert-CW.js",
     "convert-md": "./bin/convert-MD.js",
-    "import-cw": "./bin/import-CW.js"
+    "import-cw": "./bin/import-CW.js",
+    "import-md": "./bin/import-MD.js"
   },
   "devDependencies": {
     "@digitallinguistics/toolbox2json": "^2.0.0",

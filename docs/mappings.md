@@ -7,7 +7,7 @@
 * definition_MD: The definition from the MD database.
 * definition_CW: The definition from the CW database.
 * matchType: The type of match (see [Match Types](#match-types) below)
-* FST: The FST stem for the corresponding CW entry.
+* FST stem: The FST stem for the corresponding CW entry.
 
 ## Match Types
 

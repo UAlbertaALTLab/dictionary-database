@@ -20,6 +20,7 @@ overrides:
       - '*.test.js'
     rules:
       max-nested-callbacks:  off
+      max-statements:        off
       no-invalid-this:       off
       no-magic-numbers:      off
       no-param-reassign:     off

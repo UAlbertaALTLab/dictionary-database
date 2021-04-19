@@ -5,6 +5,8 @@ Notes on the Maskwacîs dictionary database.
 ## General Notes
 
 * The field name `RapidWordsClasses` has "Words" (plural), but the field name `RapidWordIndices` has "Word" (singular).
+* There are 8 exact duplicates in the database that can be safely ignored.
+* There are 8,978 non-duplicates.
 
 ## SRO
 
