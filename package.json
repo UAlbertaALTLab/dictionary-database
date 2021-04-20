@@ -22,8 +22,9 @@
   },
   "type": "module",
   "scripts": {
-    "build": "node bin/buildDatabase.js",
-    "test": "mocha lib/**/*.test.js"
+    "build":      "node bin/buildDatabase.js",
+    "test":       "mocha lib/**/*.test.js",
+    "test:build": "mocha lib/testBuild.js"
   },
   "bin": {
     "convert-cw": "./bin/convert-CW.js",

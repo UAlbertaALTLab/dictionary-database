@@ -85,9 +85,7 @@ To build and/or update the database, follow the steps below. Each of these steps
 
   Entries from individual sources are **not** imported as main entries in the ALTLab database. Instead they are stored as subentries (using the `dataSources` field). The import script merely matches entries from individual sources to a main entry, or creates a main entry if none exists. An aggregation script then does the work of combining information from each of the subentries into a main entry (see the next step).
 
-5. (_Forthcoming_) [How to run the aggregation script that combines subentries into a single main entry.]
-
-For convenience, you can perform all the above steps with a single command in the terminal: `npm run build` | `yarn build`. In order for this command to work, you will need each of the following files to be present in the `/data` directory, with these exact filenames:
+5. For convenience, you can perform all the above steps with a single command in the terminal: `npm run build` | `yarn build`. In order for this command to work, you will need each of the following files to be present in the `/data` directory, with these exact filenames:
 
 * `MD-CW-mappings.tsv`
 * `Maskwacis.tsv`
@@ -100,6 +98,8 @@ You can also run this script as a JavaScript module. It is located in `lib/build
 ## Tests
 
 Test for this repository are written using Mocha + Chai. The tests check that the conversion scripts are working properly, and test for known edge cases. There is one test suite for each conversion script (and some other miscellaneous unit tests as well), located alongside that script in `lib` with the extension `.test.js`. You can run the entire test suite with `npm test`.
+
+There is also a special test suite for the database build process. Running this test suite requires the same setup as needed to run `lib/buildDatabase.js` (see above). You can run this test suite with `npm run test:build` | `yarn test:build`.
 
 <!-- Links -->
 [ALTLab]:     https://github.com/UAlbertaALTLab
