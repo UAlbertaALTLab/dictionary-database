@@ -239,7 +239,7 @@ Asokanihk | 1: âsokanihk | Ponoka | bridge; wharf, pier | dialect | âsokan+N+I
 Awasapisk | 1: awasâpisk | Beyond the Rocky Mountains, B.C. | beyond the rocks; beyond the Rocky Mountains ;; British Columbia | equivalent | awasâpisk+Ipc
 Maskwachisihk | 1: maskwacîsihk | Hobbema. | Hobbema, AB; literally: "Little Bear Hills" | equivalent | maskwacîs+N+IN+Loc
 Notinito sipiy | 1: nôtinito-sîpiy | Battle River. | Battle River, SK | same | nôtinito-sîpiy+N+IN+Sg
-Wisahkechahk | 1: wîsahkêcâhk | 1. A legendary superhuman figure who pulled tricks on people and animals. 2. Another name for Santa clause. | Wisahkecahk; Cree culture hero, legendary figure | similar | wîsahkêcâhk+N+AN+Sg
+Wisahkechahk | 1: wîsahkêcâhk | 1. A legendary superhuman figure who pulled tricks on people and animals. 2. Another name for Santa Claus. | Wisahkecahk; Cree culture hero, legendary figure | similar | wîsahkêcâhk+N+AN+Sg
 Witaskiwinihk | 1: wîtaskîwinihk | Wetaskiwin. | peace, truce, alliance ;; Wetaskiwin, AB | similar | wîtaskîwin+N+IN+Loc
 
 ### DLx JSON Entries
