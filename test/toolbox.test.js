@@ -16,14 +16,16 @@ const { readFile } = promises;
 
 describe('Toolbox database', function() {
 
-  if (process.env.GITHUB_ACTIONS) {
-    this.skip();
-    console.info('Skipping data integrity tests for CW Toolbox file on CI.');
-  }
-
   before(async function() {
+
+    if (process.env.GITHUB_ACTIONS) {
+      this.skip();
+      console.info('Skipping data integrity tests for CW Toolbox file on CI.');
+    }
+
     const databasePath = joinPath(__dirname, '../data/Wolvengrey.toolbox');
     this.text = await readFile(databasePath, 'utf8');
+
   });
 
   it('does not contain curly quotes or apostrophes', function() {
