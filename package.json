@@ -22,9 +22,9 @@
   },
   "type": "module",
   "scripts": {
-    "build": "node bin/buildDatabase.js",
-    "clear": "node bin/clearDatabase.js",
-    "test": "mocha lib/**/*.test.js",
+    "build":      "node bin/buildDatabase.js",
+    "clear":      "node bin/clearDatabase.js",
+    "test":       "mocha lib/**/*.test.js test/*.test.js",
     "test:build": "mocha lib/testBuild.js"
   },
   "bin": {
