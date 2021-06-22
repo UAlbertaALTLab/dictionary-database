@@ -1,4 +1,5 @@
 // This file contains data integrity tests for the CW Toolbox database (Wolvengrey.toolbox).
+// These tests can only be run locally (because the database should not be checked into git).
 
 import createSpinner     from 'ora';
 import { expect }        from 'chai';
@@ -14,6 +15,11 @@ const __dirname    = getDirname(fileURLToPath(import.meta.url));
 const { readFile } = promises;
 
 describe('Toolbox database', function() {
+
+  if (process.env.GITHUB_ACTIONS) {
+    this.skip();
+    console.info('Skipping data integrity tests for CW Toolbox file on CI.');
+  }
 
   before(async function() {
     const databasePath = joinPath(__dirname, '../data/Wolvengrey.toolbox');
