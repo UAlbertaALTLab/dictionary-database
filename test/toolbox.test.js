@@ -1,5 +1,6 @@
 // This file contains data integrity tests for the CW Toolbox database (Wolvengrey.toolbox).
 
+import createSpinner     from 'ora';
 import { expect }        from 'chai';
 import { fileURLToPath } from 'url';
 import { promises }      from 'fs';
@@ -37,6 +38,24 @@ describe('Toolbox database', function() {
 
   it(`does not contain "3'"`, function() {
     expect(this.text).to.not.include(`3'`);
+  });
+
+  it('does not contain trailing semicolons at the ends of lines', function() {
+
+    this.timeout(10000);
+
+    const spinner = createSpinner('Checking for trailing semicolons.').start();
+
+    const lines = this.text
+    .split(/\r?\n/gu)
+    .map(line => line.trim());
+
+    for (const line of lines) {
+      expect(line.endsWith(';')).to.be.false;
+    }
+
+    spinner.succeed();
+
   });
 
 });
