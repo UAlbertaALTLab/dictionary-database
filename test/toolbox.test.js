@@ -35,4 +35,8 @@ describe('Toolbox database', function() {
 
   });
 
+  it(`does not contain "3'"`, function() {
+    expect(this.text).to.not.include(`3'`);
+  });
+
 });
