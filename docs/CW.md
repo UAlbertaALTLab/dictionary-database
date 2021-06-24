@@ -165,7 +165,7 @@ Historical notes about the entry. Currently this field can occur multiple times,
 
 ## `\mrp` **morphemes** [multiple]
 
-Each `\mrp` field shows one of the morphemes contained in the entry, regardless of whether that morpheme is part of the primary or secondary stem, or derivational or inflectional.
+Each `\mrp` field shows one of the morphemes contained in the stem (`\stm`), regardless of whether that morpheme is part of the primary or secondary stem, or derivational or inflectional.
 
 This field allows for nesting, where an `\mrp` field can be followed immediately by an `\mrp2` field, so that the `\mrp2` field indicates the morphemes contained within the `\mrp` field
 
@@ -186,9 +186,7 @@ The following idiosyncrasies will need to be handled when parsing this field, wh
 
 ## `\mrp2` **morphemes** [multiple]
 
-Arok is in the process of adding this field to the database. [2021/03/16] This field will show a morpheme breakdown for the morphemes in `\mrp`.
-
-It's unclear how this field is to be interpreted when there are multiple morphemes in `\mrp`. A good default assumption is that `\mrp2` only shows the morpheme breakdown for the stem in `\mrp` (so `\mrp2` is essentially the stem components—initial, medial, and final).
+This field shows a morpheme breakdown for each of the morphemes in `\mrp`. Each `\mrp2` field corresponds to the `\mrp` field preceding it. Occasionally a morpheme is listed with two leading asterisks; this indicates a tentative form, or forms that are very restricted in their distribution.
 
 ## `\new` **new since 2001 publication** [multiple]
 
