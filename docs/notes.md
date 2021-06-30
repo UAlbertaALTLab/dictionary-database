@@ -1,4 +1,4 @@
-# Notes for Arok 2021-06-29
+# Notes for Arok 2021-06-30
 
 * I recovered the missing hyphens from the entries. All of these were non-breaking hyphens, which were lost when the files were saved as `.txt`.
 
@@ -385,13 +385,16 @@
   - (sôyiyân-\NA<change (pl); ?? $[sp ??: "sôyiyânak"; cf. sôniyâwak, sôniyâsak "spare change" ??] {LB}
   - (têyi\IPV<pain $[cf. têwi] {AN})
 
-# Todo
+* Turning to the Toolbox file: These two entries do not have a `\stm` field:
 
-- [ ] Handle entries that start with parenthesis.
+  - âýimisîs
+  - wîni
+
+## Notes on Updated Toolbox File
+
+* The timestamp (the `\dt` field) has been updated for any entries that were changed.
+* Entries without `\stm` fields had to be moved to the end of the Toolbox file (there were only 2; see above).
+
+## Todo
+
 - [ ] Send list of entries without matches in Toolbox to Arok.
-
-# Notes
-
-* The original list was all stems. You'll need to map the entries to the `\stm` field rather than the `\sro` field.
-* A lot of the sources have been added partially through M.
-* Sources should be listed alphabetically in the Toolbox file. This might need to be a new data cleaning step (as opposed to just a test).
