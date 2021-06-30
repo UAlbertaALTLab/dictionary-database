@@ -2,7 +2,9 @@
 
 Documentation of the structure of the _Cree: Words_ (CW) Toolbox database.
 
-This database lives in the ALTLab repo at `/crk/dicts/Wolvengrey.toolbox`. Do **not** commit this data to git in any of our public repositories.
+This database lives in the ALTLab repo at `crk/dicts/Wolvengrey.toolbox`. Do **not** commit this data to git in any of our public repositories.
+
+There is also an older, plain text version of this database available in `crk/dicts/Wolvengrey_original.txt`. This database was originally produced using Word Perfect, before Arok imported the database into Toolbox.
 
 ## Contents
 <!-- TOC -->
