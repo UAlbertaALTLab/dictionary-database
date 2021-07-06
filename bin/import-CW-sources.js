@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import importCWSources from '../lib/import/CW-sources.js';
 import program         from 'commander';
 

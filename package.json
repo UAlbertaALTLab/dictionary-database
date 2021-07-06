@@ -31,9 +31,12 @@
     "convert-cw": "./bin/convert-CW.js",
     "convert-md": "./bin/convert-MD.js",
     "import-cw": "./bin/import-CW.js",
-    "import-md": "./bin/import-MD.js"
+    "import-md": "./bin/import-MD.js",
+    "import-cw-sources": "./bin/import-CW-sources.js"
   },
   "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/eslint-parser": "^7.14.7",
     "@digitallinguistics/toolbox2json": "^2.0.0",
     "chai": "^4.3.4",
     "commander": "^7.2.0",

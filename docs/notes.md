@@ -385,7 +385,7 @@
   - (sôyiyân-\NA<change (pl); ?? $[sp ??: "sôyiyânak"; cf. sôniyâwak, sôniyâsak "spare change" ??] {LB}
   - (têyi\IPV<pain $[cf. têwi] {AN})
 
-* Turning to the Toolbox file: These two entries do not have a `\stm` field:
+* Turning to the Toolbox file: These two entries do not have a `\stm` field and it seemed like maybe they're supposed to. I wasn't sure though.
 
   - âýimisîs
   - wîni
@@ -393,7 +393,7 @@
 ## Notes on Updated Toolbox File
 
 * The timestamp (the `\dt` field) has been updated for any entries that were changed.
-* Entries without `\stm` fields had to be moved to the end of the Toolbox file (there were only 2; see above).
+* Wasn't able to preserve your original sorting order. I don't know if that makes a difference in Toolbox though.
 
 ## Todo
 
