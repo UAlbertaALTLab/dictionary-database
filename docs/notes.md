@@ -1,6 +1,4 @@
-# Notes for Arok 2021-06-30
-
-* I recovered the missing hyphens from the entries. All of these were non-breaking hyphens, which were lost when the files were saved as `.txt`.
+# Notes for Arok 2021-07-07
 
 * These entries were missing a leading slash before the POS code, so I added it.
 
@@ -30,7 +28,7 @@
   - miYoskaminowi-pîsimw-\NA<spring month $["The Spring Months": March, April, and May] (4S)
   - papakiwayân-\NI<shirt; blouse $[rdpl: also: pakowayân-, papakôwayân-] AC, AN, EM, FC, N-3}
 
-* These entries are spelled differently between the Word Perfect files and the Toolbox database, so I updated the Word Perfect files. We confirmed these in our meeting on 2021-06-29.
+* These entries are spelled differently between the Word Perfect files and the Toolbox database, so I updated the Word Perfect files. We confirmed these in our meeting on 2021-06-29. There are likely many other entries with spelling discrepancies, but these were just two we happened to catch.
 
   - sakapwânâhkw- > sakapwânâsk-
   - mêskotonamaw- > mêskotônamaw-
@@ -39,7 +37,7 @@
 
   - aYôskanâhtikw-\NA<raspberry bush ${also: aYôhkanâhtikw-] {AN, HW, LB}
 
-* The following entries have sources specified for each sense. However, the Toolbox file only specifies sources at the level of the entry, so I can't indicate which source belongs to which sense. For the time being, I've just added these sources at the entry level, but I thought we should retain this list for down the road when we might want to specify the source at the sense level. Also note that for some of these, one of the sources is actually part of a cross-reference. These cases should be examined manually; it's possible that the source in the cross-reference is not relevant to the main entry, and should be removed. Finally, some of the sources in here are page numbers; these probably also need manual review.
+* The following entries have sources specified for each sense. However, the Toolbox file only specifies sources at the level of the entry, so I can't indicate which source belongs to which sense. For the time being, I've just added these sources at the entry level, but I thought we should retain this list for down the road when we might want to specify the source at the sense level. Also note that for some of these, one of the sources is actually part of a cross-reference. These cases should be examined manually; it's possible that the source in the cross-reference is not relevant to the main entry, and should be removed from the Toolbox entry. Finally, some of the sources in here are page numbers; these probably also need manual review in Toolbox.
 
   - acikâsipakw-\NI<bearberry leaf $[presumably Arctostaphylos uva-ursi; {LB} "plant-like evergreen (mixed with tobacco)"] {LB, SW}
   - (ahpihc\IPC< ?? {LL} {p 254})
@@ -389,12 +387,3 @@
 
   - âýimisîs
   - wîni
-
-## Notes on Updated Toolbox File
-
-* The timestamp (the `\dt` field) has been updated for any entries that were changed.
-* Wasn't able to preserve your original sorting order. I don't know if that makes a difference in Toolbox though.
-
-## Todo
-
-- [ ] Send list of entries without matches in Toolbox to Arok.
