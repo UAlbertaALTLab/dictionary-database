@@ -1,0 +1,771 @@
+# Key to Entry Fields
+#
+# Each object represents a *dictionary entry*.
+#
+# entryType: lexeme | morpheme | phrase | wordform  # The type of entry.
+# fstAnalysis:                                      # The FST analysis for this entry.
+# fstLemma:                                         # The lemma used by the FST, in the internal orthography.
+# generalWordClass: N | V | Part | Pro | (etc.)     # The general word class / part of speech. Used by the dictionary to identify N/V etc. for phrase translation. The two values that the app needs are `N` and `V`---the others are just for display places.
+# head:                                             # The head(word|morpheme|phrase) displayed to the user, in the internal orthography. Will get transliterated to other orthographies in the dictionary app depending on which orthography the user selects.
+# linguistInfo:
+#   category:                                       # The lexical category for the entry. This is displayed to the end user as-is. For Plains Cree, the value of this field is whatever is in Arok's `\ps` field in the Toolbox file. For now, each entry may only have one lexical category.
+#   stem:                                           # The stem displayed to the user in the linguistic popup. Stored in the internal orthography. This field is not used for any other purpose than being displayed to the user.
+# paradigm: <static> | <dynamic> | null             # Indicates the paradigm used by this entry. null = don't show a paradigm. This could be because the form is non-inflecting, or because more work is needed by linguists.
+# senses:                                           # An array of senses / definitions for this entry.
+#   - definition:                                   # The definition for this sense.
+#     sources:                                      # An array of data sources for this sense.
+# slug:                                             # The key that appears in the URL for the entry. This should include a homograph number when needed.
+
+# Internal Orthography = This is the internal orthography used by the app. May or may not be displayed to the user.
+# - Plains Cree: SRO orthography with circumflexes and plain <y> (NFC normalized)
+# - Woods Cree: SRO orthography with macrons and <th> (NFC normalized)
+
+- category: INM
+  FST:
+    lemma: kinêpiko-maskotêhk
+  head:     kinêpiko-maskotêhk
+  paradigm: null
+  POS:      N
+  key:      kinêpiko-maskotêhk
+  senses:
+    - definition: Mistawasis Reserve, Mistawasis First Nation, SK
+      sources:    [CW]
+    - definition: Plains Cree community
+      sources:    [CW]
+  stem: kinêpiko-maskotêw-
+
+- category: IPC
+  head:     piskihci
+  paradigm: null
+  POS:      Part
+  key:      piskihci
+  senses:
+    - definition: separate
+      sources:    [CW, MD]
+    - definition: by itself
+      sources:    [CW]
+  stem: piskihci
+
+- category: IPH
+  head:     anohc kâ-kîsikâk
+  paradigm: null
+  POS:      Part
+  key:      anohc kâ-kîsikâk
+  senses:
+    - definition: today
+      sources:    [CW]
+  stem: anohc kâ-kîsikâk
+
+- category: IPJ
+  head:     kitatamihin
+  paradigm: null
+  POS:      Part
+  key:      kitatamihin
+  senses:
+    - definition: thank you, you make me smile, you please me
+      sources:    [CW]
+  stem: kitatamihin
+
+- category: NA-1
+  head:     okakihcimosk
+  FST:
+    lemma: okakihcimosk
+  paradigm: NA
+  POS:      N
+  key:      okakihcimosk
+  senses:
+    - definition: boaster, braggart
+      sources:    [CW, MD]
+  stem: okakihcimosk-
+
+- category: NA-2
+  FST:
+    lemma: opîkopicikêw
+  head:     opîkopicikêw
+  paradigm: NA
+  POS:      N
+  key:      opîkopicikêw
+  senses:
+    - definition: one who ploughs
+      sources:    [CW, MD]
+  stem: opîkopicikêw-
+
+- category: NA-3
+  FST:
+    lemma: kiskinwahamâtôtâpânâsk
+  head:     kiskinwahamâtôtâpânâsk
+  paradigm: NA
+  POS:      N
+  key:      kiskinwahamâtôtâpânâsk
+  senses:
+    - definition: school bus
+      sources:    [CW]
+  stem: kiskinwahamâtôtâpânâskw-
+
+- category: NA-4
+  FST:
+    lemma: oski-âya
+  head:     oski-âya
+  paradigm: NA
+  POS:      N
+  key:      oski-âya
+  senses:
+    - definition: young one, young person, young creature
+      sources:    [CW]
+    - definition: the young
+      sources:    [CW]
+  stem: oski-ây-
+
+- category: NA-4w
+  FST:
+    lemma: wâpi-maskwa
+  head:     wâpi-maskwa
+  paradigm: NA
+  POS:      N
+  key:      wâpi-maskwa
+  senses:
+    - definition: White Bear
+      sources:    [CW]
+  stem: wâpi-maskw-
+
+- category: NDA-1
+  FST:
+    lemma: wiýihkosa
+  head:     wiyihkosa
+  paradigm: NDA
+  POS:      N
+  key:      wiyihkosa
+  senses:
+    - definition: his/her glands
+      sources:    [CW]
+    - definition: his/her tonsils
+      sources:    [CW]
+  stem: wiýihkos-
+
+- category: NDA-2
+  FST:
+    lemma: nitihtihkosiy
+  head:     nitihtihkosiy
+  paradigm: NDA
+  POS:      N
+  key:      nitihtihkosiy
+  senses:
+    - definition: my kidney
+      sources:    [CW]
+  stem: -tihtihkosiy-
+
+- category: NDA-3
+  FST:
+    lemma: miýihkwak
+  head:     miyihkwak
+  paradigm: NDA
+  POS:      N
+  key:      miyihkwak
+  senses:
+    - definition: glands
+      sources:    [CW]
+  stem: -iýihkw-
+
+- category: NDA-4
+  FST:
+    lemma: nîwa
+  head:     nîwa
+  paradigm: NDA
+  POS:      N
+  key:      nîwa
+  senses:
+    - definition: my wife
+      sources:    [CW, MD]
+  stem: -îw-
+
+- category: NDA-4w
+  FST:
+    lemma: nîskwa
+  head:     nîskwa
+  paradigm: NDA
+  POS:      N
+  key:      nîskwa
+  senses:
+    - definition: my husband's former wife, my husband's ex
+      sources:    [CW]
+  stem: -îskw-
+
+- category: NDI
+  FST:
+    lemma: nitêýikom
+  head:     nitêyikom
+  paradigm: NDI
+  POS:      N
+  key:      nitêyikom
+  senses:
+    - definition: my nostril
+      sources:    [CW]
+  stem: -têýikom-
+
+- category: NDI-2
+  FST:
+    lemma: nitêýaniyâpiy
+  head:     nitêyaniyâpiy
+  paradigm: NDI
+  POS:      N
+  key:      nitêyaniyâpiy
+  senses:
+    - definition: my tongue string
+      sources:    [CW]
+  stem: -têýaniyâpiy-
+
+- category: NDI-3
+  FST:
+    lemma: naýakask
+  head:     nayakask
+  paradigm: NDI
+  POS:      N
+  key:      nayakask
+  senses:
+    - definition: my palate
+      sources:    [CW]
+  stem: -aýakaskw-
+
+- category: NDI-4
+  FST:
+    lemma: nîki
+  head:     nîki
+  paradigm: NDI
+  POS:      N
+  key:      nîki
+  senses:
+    - definition: my home, my dwelling, my house
+      sources:    [CW]
+  stem: -îk-
+
+- category: NDI-5
+  FST:
+    lemma: nîwas
+  head:     nîwas
+  paradigm: NDI
+  POS:      N
+  key:      nîwas
+  senses:
+    - definition: my sacred pack, my sacred bundle, my medicine-bundle
+      sources:    [CW]
+  stem: -îwat-
+
+- category: NI-1
+  FST:
+    lemma: kipokwâcikan
+  head:     kipokwâcikan
+  paradigm: NI
+  POS:      N
+  key:      kipokwâcikan
+  senses:
+    - definition: thing sewn closed or together
+      sources:    [CW]
+    - definition: thing sewn shut
+      sources:    [CW]
+  stem: kipokwâcikan-
+
+- category: NI-2
+  FST:
+    lemma: ispatinaw
+  head:     ispatinaw
+  paradigm: NI
+  POS:      N
+  key:      ispatinaw
+  senses:
+    - definition: hill
+      sources:    [CW]
+    - definition: hilly region
+      sources:    [CW]
+  stem: ispatinaw-
+
+- category: NI-3
+  FST:
+    lemma: pêhowikamik
+  head:     pêhowikamik
+  paradigm: NI
+  POS:      N
+  key:      pêhowikamik
+  senses:
+    - definition: railway station
+      sources:    [CW]
+    - definition: waiting room
+      sources:    [CW]
+  stem: pêhowikamikw-
+
+- category: NI-4
+  FST:
+    lemma: askâwi
+  head:     askâwi
+  paradigm: NI
+  POS:      N
+  key:      askâwi
+  senses:
+    - definition: raw egg
+      sources:    [CW]
+  stem: askâw-
+
+- category: NI-4w
+  FST:
+    lemma: pâstâhowi-mihko
+  head:     pâstâhowi-mihko
+  paradigm: NI
+  POS:      N
+  key:      pâstâhowi-mihko
+  senses:
+    - definition: blood tainted by a breach of the natural order
+      sources:    [CW]
+    - definition: blood tainted by deicide, sinful blood
+      sources:    [CW]
+  stem: pâstâhowi-mihkw-
+
+- category: NI-5
+  FST:
+    lemma: ôsi
+  head:     ôsi
+  paradigm: NI
+  POS:      N
+  key:      ôsi
+  senses:
+    - definition: boat
+      sources:    [CW]
+    - definition: canoe
+      sources:    [CW]
+  stem: ôs-
+
+- category: PrA
+  head:     awa
+  paradigm: personal-pronouns # QUESTION: Is this the actual name of the layout?
+  POS:      Pro
+  key:      awa
+  senses:
+    - definition: this, this one
+      sources:    [CW, MD]
+  stem: awa
+
+- category: VAI # QUESTION: Should this have a trailing number? VAI-???
+  FST:
+    lemma: âcimow
+  head:     âcimow
+  paradigm: VAI
+  POS:      V
+  key:      âcimow
+  senses:
+    - definition: s/he tells, s/he tells a story
+      sources:    [CW, MD]
+    - definition: s/he tells news, s/he gives an account, s/he narrates
+      sources:    [CW]
+    - definition: s/he tells his/her own story
+      sources:    [CW]
+  stem: âcimo-
+
+- category: VAI-1
+  FST:
+    lemma: âpahikâsow
+  head:     âpahikâsow
+  paradigm: VAI
+  POS:      V
+  key:      âpahikâsow
+  senses:
+    - definition: s/he is freed, s/he is untied
+      sources:    [CW]
+  stem: âpahikâso-
+
+- category: VAI-2
+  FST:
+    lemma: nêstosin
+  head:     nêstosin
+  paradigm: VAI
+  POS:      V
+  key:      nêstosin
+  senses:
+    - definition: s/he is tired of lying about
+      sources:    [CW]
+  stem: nêstosin-
+
+- category: VAI-3
+  FST:
+    lemma: ostostotam
+  head:     ostostotam
+  paradigm: VAI
+  POS:      V
+  key:      ostostotam
+  senses:
+    - definition: s/he coughs, s/he has a coughing spell
+      sources:    [CW, MD]
+    - definition: s/he coughs s.t. up, s/he coughs s.t. out
+      sources:    [CW]
+  stem: ostostot-
+
+- category: VII-1n
+  FST:
+    lemma: mispon
+  head:     mispon
+  paradigm: VII
+  POS:      V
+  key:      mispon
+  senses:
+    - definition: it snows, it is snowing, there is falling snow, there is a snow-fall
+      sources:    [CW, MD]
+  stem: mispon-
+
+- category: VII-1v
+  FST:
+    lemma: nîso-tipiskâw
+  head:     nîso-tipiskâw
+  paradigm: VII
+  POS:      V
+  key:      nîso-tipiskâw
+  senses:
+    - definition: it is Tuesday night
+      sources:    [CW]
+  stem: nîso-tipiskâ-
+
+- category: VII-2n
+  FST:
+    lemma: sôniyâwan
+  head:     sôniyâwan
+  paradigm: VII
+  POS:      V
+  key:      sôniyâwan
+  senses:
+    - definition: it is worth money
+      sources:    [CW]
+    - definition: it consists of money
+      sources:    [CW]
+  stem: sôniyâwan-
+
+- category: VII-2v
+  FST:
+    lemma: nôtimâw
+  head:     nôtimâw
+  paradigm: VII
+  POS:      V
+  key:      nôtimâw
+  senses:
+    - definition: it is round
+      sources:    [CW]
+  stem: nôtimâ-
+
+- category: VII-2n
+  FST:
+    lemma: wâsêyâsin
+  head:     wâsêyâsin
+  paradigm: VII
+  POS:      V
+  key:      wâsêyâsin
+  senses:
+    - definition: there is brightness showing, it is a little bright
+      sources:    [CW]
+  stem: wâsêyâsin-
+
+- category: VII-v
+  FST:
+    lemma: kwêtipipaýiw
+  head:     kwêtipipayiw
+  paradigm: VII
+  POS:      V
+  key:      kwêtipipayiw
+  senses:
+    - definition: it rolls over by itself
+      sources:    [CW, MD]
+  stem: kwêtipipaýi-
+
+- category: VTA-1
+  FST:
+    lemma: atamihêw
+  head:     atamihêw
+  paradigm: VTA
+  POS:      V
+  key:      atamihêw
+  senses:
+    - definition: s/he makes s.o. smile
+      sources:    [CW]
+    - definition: s/he pleases s.o., s/he makes s.o. glad
+      sources:    [CW]
+    - definition: s/he makes s.o. grateful, s/he makes s.o. indebted
+      sources:    [CW]
+    - definition: s/he treats s.o. well
+      sources:    [CW]
+  stem: atamih-
+
+- category: VTA-2
+  FST:
+    lemma: wâsênamawêw
+  head:     wâsênamawêw
+  paradigm: VTA
+  POS:      V
+  key:      wâsênamawêw
+  senses:
+    - definition: s/he puts the lights on for s.o.
+      sources:    [CW]
+    - definition: s/he lights (it/him) for s.o.
+      sources:    [CW]
+  stem: wâsênamaw-
+
+- category: VTA-3
+  FST:
+    lemma: mâciswêw
+  head:     mâciswêw
+  paradigm: VTA
+  POS:      V
+  key:      mâciswêw
+  senses:
+    - definition: s/he cuts s.o. open
+      sources:    [CW]
+  stem: mâcisw-
+
+- category: VTA-4
+  FST:
+    lemma: kispêwâtêw
+  head:     kispêwâtêw
+  paradigm: VTA
+  POS:      V
+  key:      kispêwâtêw
+  senses:
+    - definition: s/he defends s.o., s/he is overprotective of s.o.
+      sources:    [CW, MD]
+  stem: kispêwât-
+
+- category: VTA-5
+  FST:
+    lemma: ay-itêw
+  head:     ay-itêw
+  paradigm: VTA
+  POS:      V
+  key:      ay-itêw
+  senses:
+    - definition: s/he says so to s.o, s/he says so of s.o.
+      sources:    [CW]
+  stem: ay-it-
+
+- category: VTI-1
+  FST:
+    lemma: kâhtinam
+  head:     kâhtinam
+  paradigm: VTI
+  POS:      V
+  key:      kâhtinam
+  senses:
+    - definition: s/he obtains s.t., s/he attains s.t., s/he procures s.t.
+      sources:    [CW]
+    - definition: s/he pushes s.t.
+      sources:    [CW]
+  stem: kâhtin-
+
+- category: VTI-2
+  FST:
+    lemma: nahêkâcihtâw
+  head:     nahêkâcihtâw
+  paradigm: VTI
+  POS:      V
+  key:      nahêkâcihtâw
+  senses:
+    - definition: s/he is sparing of s.t.
+      sources:    [CW]
+  stem: nahêkâcihtâ-
+
+- category: VTI-3
+  FST:
+    lemma: oscoscocasiw
+  head:     oscoscocasiw
+  paradigm: VTI
+  POS:      V
+  key:      oscoscocasiw
+  senses:
+    - definition: s/he coughs a little
+      sources:    [CW]
+    - definition: s/he coughs up a little of something
+      sources:    [CW]
+  stem: oscoscocasi-
+
+- category: NA-3
+  FST:
+    lemma: atim
+  head:     atim
+  paradigm: NA
+  POS:      N
+  key:      atim
+  senses:
+    - definition: dog
+      sources:    [CW, MD]
+    - definition: horse
+      sources:    [CW]
+    - definition: beast of burden
+      sources:    [CW]
+  stem: atimw-
+
+- category: NA-3
+  FST:
+    lemma: atâhk
+  head:     atâhk
+  paradigm: NA
+  POS:      N
+  key:      atâhk
+  senses:
+    - definition: star
+      sources:    [CW, MD]
+  stem: atâhkw-
+
+- category: NA-1
+  FST:
+    lemma: acâhkos
+  head:     acâhkos
+  paradigm: NA
+  POS:      N
+  key:      acâhkos
+  senses:
+    - definition: star, little star
+      sources:    [CW, MD]
+  stem: acâhkos-
+
+- category: VAI-1
+  FST:
+    lemma: nîmiw
+  head:     nîmiw
+  paradigm: VAI
+  POS:      V
+  key:      nîmiw
+  senses:
+    - definition: s/he dances
+      sources:    [CW]
+  stem: nîmi-
+
+# nîminâniwan does not (and should not) have a LEXC entry
+- entryType:   wordform
+  fstAnalysis: nîmiw+V+AI+Ind+X
+  head:        nîminâniwan
+  lemmaSlug:   nîmiw
+  senses:
+    - definition: there is a dance, it is a time of dancing
+      sources:    [CW]
+
+- category: VAI-1
+  FST:
+    lemma: apiw
+  head:     apiw
+  paradigm: VAI
+  POS:      V
+  key:      apiw
+  senses:
+    - definition: s/he sits, s/he sits down, s/he is present
+      sources:    [CW]
+    - definition: s/he is available
+      sources:    [CW]
+    - definition: s/he is there, s/he is situated
+      sources:    [CW]
+    - definition: He sits. Also means he is at home.
+      sources:    [MD]
+  stem: api-
+
+- category: VAI-1
+  FST:
+    lemma: ay-apiw
+  head:     ay-apiw
+  paradigm: VAI
+  POS:      V
+  key:      ay-apiw
+  senses:
+    - definition: s/he sits, s/he is seated
+      sources:    [CW]
+    - definition: s/he stays seated
+      sources:    [CW]
+    - definition: He is sitting there, also he is at home.
+      sources:    [MD]
+  stem: ay-api-
+
+- category: VAI-1
+  FST:
+    lemma: nipâw
+  head:     nipâw
+  paradigm: VAI
+  POS:      V
+  key:      nipâw
+  senses:
+    - definition: s/he sleeps, s/he is asleep
+      sources:    [CW, MD]
+  stem: nipâ-
+
+- category: NDI-2
+  FST:
+    lemma: mitêýaniy
+  head:     mitêyaniy
+  paradigm: NDI
+  POS:      N
+  key:      mitêyaniy
+  senses:
+    - definition: tongue
+      sources:    [CW]
+  stem: -têýaniy-
+
+- category: VTI-1
+  FST:
+    lemma: miýâskam
+  head:     miyâskam
+  paradigm: VTI
+  POS:      V
+  key:      miyâskam1
+  senses:
+    - definition: s/he passes s.t., s/he passes s.t. walking, s/he passes around s.t., s/he bypasses s.t.
+      sources:    [CW]
+    - definition: s/he transgresses s.t.
+      sources:    [CW]
+  stem: miýâsk-
+
+- category: IPC
+  head:     miyâskam
+  paradigm: null
+  POS:      Part
+  key:      miyâskam2
+  senses:
+    - definition: past
+      sources:    [CW]
+    - definition: gone beyond (e.g. the hour)
+      sources:    [CW]
+  stem: miyâskam
+
+# This entry does not have a mapping to CW, so its exact inflectional class and paradigm are unknown.
+- category: N # QUESTION: Can there be just `N`, or does this need to be `NA` or something similar.
+  FST:
+    lemma: ahasow
+  head:     ahasow
+  key:      ahasow
+  paradigm: unknown
+  POS:      N
+  senses:
+    - definition: a crow
+      sources:    [MD]
+  stem: ahaso-
+
+- category: INM
+  head:     otôskwanihk
+  key:      otôskwanihk1
+  paradigm: null
+  POS:      N
+  senses:
+    - definition: Calgary
+      sources:    [CW]
+  stem: otôskwanihk
+
+- category: NDI-1
+  FST:
+    lemma: otôskwanihk
+  head:     otôskwanihk
+  key:      otôskwanihk2
+  paradigm: NDI
+  POS:      N
+  senses:
+    - definition: at his/her elbow
+      sources:    [CW]
+  stem: otôskwanihk-
+
+- category: INM
+  FST:
+    lemma: acâhkos kâ-osôsit
+  head:     acâhkos kâ-osôsit
+  key:      acâhkos kâ-osôsit
+  paradigm: null
+  POS:      N
+  senses:
+    - definition: comet, tailed star
+      sources:    [CW]
+  stem: acâhkos kâ-osôsit
