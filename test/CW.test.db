@@ -4,17 +4,39 @@
 \test constructs the head
 \sro  awahêk!
 \syl  ᐊᐊᐧᐦᐁ
+\ps   IPJ
+\def  be careful! take care!
 
 \test constructs the lemma
 \sro  acicipaýihow
 \syl  ᐊᒋᒋᐸᔨᐦᐅᐤ
+\ps   VAI-1
+\def  s/he throws him/herself head first, falling forward; s/he throws him/herself on all fours; s/he somersaults
 
 \test does not include punctuation
 \sro  awahêk!
 \syl  ᐊᐊᐧᐦᐁ
+\ps   VAI-1
+\def  s/he throws him/herself head first, falling forward; s/he throws him/herself on all fours; s/he somersaults
 
 \test retains the text of the original Toolbox entry
-\sro  original
+\sro  acâhkos
+\syl  ᐊᒑᐦᑯᐢ
+\ps   NA-1
+\def  star, little star
+
+\test returns a ParseError object when there are different numbers of definitions and POS codes
+\sro  âmî
+\syl  ᐋᒦ
+\ps   IPJ
+\def  oh my, oh dear [exclamation of sympathy]
+\ps   IPC
+
+\test separates definitions by semicolons
+\sro  acâhkosiwiw
+\syl  ᐊᒑᐦᑯᓯᐃᐧᐤ
+\ps   VAI-1
+\def  it is a star; s/he is a star (e.g. in movies, sports, music, etc.)
 
 \test splits entries with multiple definitions
 \sro  masinahikanâpisk
@@ -30,10 +52,3 @@
 \def  oh my, oh dear [exclamation of sympathy]
 \ps   IPC
 \def  dear one; poor thing
-
-\test returns a ParseError object when there are different numbers of definitions and POS codes
-\sro  âmî
-\syl  ᐋᒦ
-\ps   IPJ
-\def  oh my, oh dear [exclamation of sympathy]
-\ps   IPC
