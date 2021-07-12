@@ -1,5 +1,5 @@
 \_sh v1.0 9999 Plains Cree
 \_DateStampHasFourDigitYear
 
-\test test name
-\sro  test-data
+\test retains the text of the original Toolbox entry
+\sro  original
