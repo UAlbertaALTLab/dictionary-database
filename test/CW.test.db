@@ -9,5 +9,31 @@
 \sro  acicipaýihow
 \syl  ᐊᒋᒋᐸᔨᐦᐅᐤ
 
+\test does not include punctuation
+\sro  awahêk!
+\syl  ᐊᐊᐧᐦᐁ
+
 \test retains the text of the original Toolbox entry
 \sro  original
+
+\test splits entries with multiple definitions
+\sro  masinahikanâpisk
+\syl  ᒪᓯᓇᐦᐃᑲᓈᐱᐢᐠ
+\ps   NA-3
+\def  slate
+\def  pen
+
+\test splits entries with multiple POS + definition pairs
+\sro  âmî
+\syl  ᐋᒦ
+\ps   IPJ
+\def  oh my, oh dear [exclamation of sympathy]
+\ps   IPC
+\def  dear one; poor thing
+
+\test returns a ParseError object when there are different numbers of definitions and POS codes
+\sro  âmî
+\syl  ᐋᒦ
+\ps   IPJ
+\def  oh my, oh dear [exclamation of sympathy]
+\ps   IPC
