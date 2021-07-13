@@ -27,15 +27,12 @@ ahpîhtinâkwan-\VII<look purple, appear purple {VW}
 ahpîhtipayi-\VAI<become bruised; turn purple, blue {VW}
 ahpîhtîhkaso-\VAI<be burnt black and blue {LB}
 akâmaskotêw\IPC<at the far side of the fire {LB}
-akâmi\IPN<across {AN}
 akâmi-askiy\IPC<across the land {AN}
 akâmi-askîhk\IPC<across the land {AC}
 akâmi-tipahaskân-\NI<United States {FC}
 akânikan-\NI<fence $[arch.] {LB}
 akâwih\IPC<in vain {LB}
 akistakê\IPC<in great number {LB}
-ako\IPV<sticking on {LB}
-akoci\IPV<hanging {LB}
 akocipâskisikanâhkân-\NI<gun-rack {AN}
 akoh-\VTI<paste s.t. on (the wall) {AN}
 akohamaw-\VTA<paste (it/him) on for s.o. {AN}
@@ -84,21 +81,16 @@ aniskamân-\NA<button $[cf. sakwâskohon- NI] {AC}
 aniskamânasâkay-\NI<slip {DOa}
 (apahaskêkw-\NI<marsh with holes in it {LB})
 (apascikanêkin-\NI<tablecloth {LB})
-apihci\IPV<small {LB}
 apisâsin-\NI<small thing {LB}
 apiscâpakwanîs-\NI<little flower $[dim; cf. wâpakwaniy-] {LL}
 apiscâwâsisiwi-\VAI<be a little child {LB}
-apisci\IPN<small, little {LB, SR}
 apisci-kahkâkîs-\NA<magpie {AN, DM, FC, LB}
 apiscikwâyawê-\VAI<have a slender neck {AN}
 apisciyinîs-\NA<dwarf; short person {AN, DOa, JO}
-apisi\IPV<small, tiny {AN, LB}
 apisiciyawêsi-\VAI<have a small waist {AN}
 apisimôsosw-\NA<deer $[also apisimôsos-] {FC, KA, LB, LL, ME}
 apisimôswayân-\NA<deer-hide, skin of deer, dwarf moose {LB}
 apisî\IPV<small {ME}
-apisîsi\IPV<small {LB}
-apist\IPV<small {ME}
 apistiniskwâs-\NA<grey squirrel {LB}
 asamastimwân-\NA<oats, green-feed $[also NI; NA in reference to oats] {EM}
 asamokwâ-\VII<be bunched {LB}
@@ -114,8 +106,6 @@ asâhpit-\VTI<tie s.t. in a bundle {AN}
 asâkay-\NI<dress {FC}
 (asâwêw-\NA<spotfish {LB})
 ascipahkwânis-\NI<tentpole pin $[dim; pl: the 14 "pins" holding together the tipi hide] {TP}
-asê\IPV<backwards, back, motion going backwards {AN, LB}
-asêya\IPV<in a group {DOa, JO}
 asikanêhkâkan-\NI<knitting needle {LB}
 asikanis-\NA<small sock, stocking $[dim] {AN, FC}
 asinisikâwi-sâkahikan-\NI<Smoothstone Lake {LB}
@@ -129,7 +119,6 @@ asiskîwikocawânâpiskos-\NA<mud-stove $[dim] {PV}
 asitakimo-\VAI<include oneself, count oneself in {LB}
 askâhtikosiskâ-\VII<be a land full of young trees {LB}
 askâhtikosiskâw-\NI<land full of young trees {LB}
-askihtako\IPV<green, blue {LB}
 askihtakwâpakonî-\VII<have blue flowers {LB}
 askihtakwâpakonîw-\NI<blue flower {LB}
 askipahkwêsikan-\NA<flour $[see also pahkwêsikan- NA, sikwâwakinikan- NA] {AC}
@@ -184,7 +173,6 @@ atihkos-\NA<caribou calf, fawn {AN}
 atihkosis-\NA<caribou calf, fawn {AN}
 (atihkwapêmakw-\NA<birch or deer willow {JO})
 atimêstê-\VAI<be low-legged {LB}
-atimi\IPV<going your way {LB}
 atimitiYêsin-\VAI<lie with one's buttocks facing your way {LB}
 atîtohtê\IPC<begin going along $[cf. ati-itohtê- VAI] {LB}
 atoci\IPV<excessively {LB}
@@ -204,7 +192,6 @@ awahê\IPC<take thou care! $[exclamation] {LB}
 awahêk\IPC<take ye care! $[exclamation] {LB}
 awan-\VII<be foggy {LB}
 awasêspî\IPC<the time before {AN}
-awasi\IPP<before; beyond, after; off {FC, LB}
 awasi-tipahaskân-\NI<United States $["beyond the border"] {AN}
 awasokocawânâpiskos-\NA<heater {AC}
 awâsisisôniyâs\IPC<family allowance ["child-money"] {LL}
@@ -255,7 +242,6 @@ ayakaskimêskanaw-\NI<wide road or highway {AN}
 ayakaskisi-\VAI<be broad, wide {AN, LB, SR}
 ayakaskisitê-\VAI<have a broad foot {AN}
 ayakipaYi-\VII<be torn {LB}
-ayamihêwi\IPV<of the Christian religion, of church {LB}
 ayapacinâs-\NI<small hill; rolling hill country {DM}
 ayapihkêsîs-\NA<spider $[dim; rdpl] {FC}
 ayapîhkêsiw-\NA<large spider {AN}
@@ -301,7 +287,6 @@ ayôtôcikê-\VAI<make merry {LB}
 âhciwin-\VTI<decrease s.t. {AN}
 âhciwipaYi-\VII<shrink; shrivel {AN}
 âhciwîki-\VAI<move to another place of residence {AN}
-âhkami\IPV<persistently, untiringly, unfailingly, unceasingly, unwaveringly; keep on, persevere $[also: ahkami] {EM, LB, LL, SW}
 âhki\IPC<greatly, excessively {LB, SR}
 âhkikowîYin-\NI<seal fat {AN}
 âhkiskon-\NA<prairie chicken {AN}
@@ -346,9 +331,7 @@ ayôtôcikê-\VAI<make merry {LB}
 âkoyâpahpiso-\VAI<have one's eyes shielded, blindfolded {LB}
 âkoyâpahpit-\VTA<blindfold s.o.'s eyes {JO}
 âkoyâpahpitiso-\VAI<blindfold oneself {AN}
-âkô\IPV<covered, shielded {EM}
 âkô-wiyipâ-\VII<be covered in dirt {EM}
-âkwâ\IPV<quite a lot {LL}; well on its way, in progress of time {LB}
 âkwâhkatiso-\VAI<be very thin from hunger; be very hungry {AN, SR}
 âkwâhonihtak-\NI<driftwood {AN}
 âkwâkohtin-\VII<be mouldy {AN}
@@ -372,13 +355,11 @@ ayôtôcikê-\VAI<make merry {LB}
 âmaciwêYâhkin-\VTA<push s.o. up, uphill {AN}
 âmaciwêYâhkin-\VTI<push s.t. up, uphill {AN}
 âmaciwêYâhtawî-\VAI<climb up, go upstairs {LB, SR}
-âmi\IPV<almost {LB}
 ?âmôsihcikan-\NI<honey $["what a bee makes"] {AN}
 âmôw-\NA<bee, honey-bee, wasp {AN, FC, LB, ME, N-1, SR}
 âmôwi-piyêsîs-\NA<hummingbird {DM}
 âmôw-mêy-\NI<honey $[generally sg: âmôw-mêy(i)] {AC, LB, FC}
 âmôw-wâciston-\NI<bee's nest {AN}
-(âniski\IPV<succession, extension) {AN}
 âniskoscikê-\VAI<make an extension {LL}
 âniskotâpan-\NI<thing next in order $[cf. -âniskotâpân- NDA]  {LB}
 âniskôhpit-\VTA<lengthen s.o. (i.e., by tying on an extra length) {AN}
@@ -398,14 +379,10 @@ ayôtôcikê-\VAI<make merry {LB}
 âpahostêhikan-\NI<monkey wrench {LB}
 âpahostêhw-\VTA<unwind s.o. (with a wrench) {AN}
 âpamiskwêYi-\VAI<turn back one's head {LB}
-âpihci\IPV<halfway {LL}
 âpihko-\VAI<untie oneself, get loose, become untied, unfettered, ungird oneself {AN, LB}
 âpihkwani-\VAI<untie oneself (?) {LB}
-âpihtawi\IPV<half {LB}
-âpihtâ\IPV<half {LB}
 âpihtâ-kîsikani-mîcisowin-\NI<dinner {AC}
 âpihtâ-kîsikânôtâhk\IPC<toward direction of noon {LB}
-âpihtâ-kîsikâwi\IPV<at noon {LB}
 âpihtâkosisân-\NA<Métis $[cf. âpihtawikosisân-] {AN}
 âpisîhkwasi-\VAI<recover from a nightmare {LB}
 âpisîsin-\VAI<revive {LB}
@@ -415,7 +392,6 @@ ayôtôcikê-\VAI<make merry {LB}
 âsawah-\VTI<cross s.t. (e.g., a river) $[cf. âsowah-] {LB}
 âsawakâmê\IPC<across the stream, to the far bank $[cf. âsowakâmê] {LB}
 âsawâpisk\IPC<beyond the Rocky Mountains {LB}
-âsawi\IPV<in passing something on {EM}
 âsên-\VTA<refuse s.o. {FC}
 âsênamaw-\VTA<return (it/him) to s.o.; create a hindrance for s.o. {FC, SR}
 âsiskamâ-\VAI<get ahead {LB}
@@ -443,8 +419,6 @@ ayôtôcikê-\VAI<make merry {LB}
 âstawiskawê-\VAI-T<extinguish s.t. by foot {LB}
 âstawî-\VAI<go out (e.g., pipe) {LB}
 âstawî-\VII<go out (e.g., fire) {LB}
-âstê\IPV<bright {LB}
-âstê\IPV<ceasing; quit {AC, LB}
 âta wiya\IPH<though, although; nonetheless, anyway $[+ INDP; ??] {AC, AN, LB, LL}
 âtahw-\VTA<beat s.o. in a contest {LB}
 âtâtow\IPC<barely enough {AN}
@@ -467,7 +441,6 @@ ayôtôcikê-\VAI<make merry {LB}
 (âYimahk\IPC<difficult times; depression (?) $[cf. ê-âyimahk (?)] {AN})
 âYimanipîsin-\VAI<look difficult to one (?) {AN}
 âYimômiw-\VTA<speak against s.o. {AN}
-âYîci\IPV<firmly, tightly {LB}
 âYîtaw\IPC<on both sides {LB}
 âYîtawakâm\IPC<on both banks {LB}
 âYîtawâpitakâ-\VII<be two edged {LB}
@@ -552,7 +525,6 @@ cîkô-\VAI<draw back the foreskin ?? $[Latin: "praeputium retrahit"] {LB}
 cînaskw-\NA<woodchuck {LB}
 cîpayamatiso-\VAI<be visited by ghosts {LB}
 cîpayamatisôstaw-\VTA<talk as a ghost with s.o. {LB}
-cîpêhtako\IPV<blue {LB}
 cîpêhtakwâpikonî-\VII<have blue flowers {LB}
 cîposcowiyâkanisîs-\NA<shrew, mole {LB, SR}
 cîpwêkascikê-	\VAI<make a mess {FD, JO}
@@ -580,7 +552,6 @@ côhcônamâso-\VAI<masturbate {LB}
 côsap-\NA<Joseph $[male personal name] {EM}
 côwêhkanâpisîs-\NA<holy-fly; dragonfly $[cf. cowêhikanâpisîs- {N-1}] {LB}
 côwêhkaso-\VAI<sizzle as one cooks; make a sizzling sound while cooking {LB}
-ê\IPV< [grammatical preverb] $[defines a changed conjunct clause] {AC, FC, HW, KA, LL, ME, N-1, PV, SR}
 êhtahtiki\IPC<as many as they are {LB}
 êkâwiya\IPC<no; not; don't, don't you dare $[in conjunct and imperative clauses; cf. êkâ IPC, êkây IPC, êkâya IPC, kâwiya IPC, kâya IPC] {AN, FC, KA, ME, N-1}
 êkâya\IPC<not $[in conjunct and imperative clauses; cf. êkâ IPC, êkâwiya IPC, êkây IPC, kâwiya IPC, kâya IPC] {AC, HW, KA, LB, LL, PV}
@@ -633,7 +604,6 @@ ispakonakâ-\VII<be deep snow {FC}
 ispatinâs-\NI<small hill $[dim] {AN}
 ispatinâsin-\VII<be quite high, be somewhat high (e.g. a hill) {AN, SR}
 ispâhtâ-\VAI<build s.t. high {AN}
-ispi\IPV<then, when {LB}
 ispinat-\VTA<assail, injure s.o. so {LB}
 ispinê-\VAI<be thus sick {LB}
 ispinêm-\VTA<reprove s.o. so {LB}
@@ -643,7 +613,6 @@ ispiskwêyi-\VAI<raise one's head {LB}
 ispîhci wiya\IPH<instead of {KA}
 ispîhcipayi-\VII<go so far {LB}
 ispîhtâyêkaskâ-\VII<be so broad {AN}
-itahto\IPV<in such number $[also: "ihtahto"] {LB}
 itakimik\IPC<come on! {LB}
 itamahciho-\VAI<feel thus, be in such health $[nânitaw itamahciho- "feel unwell"] {AC, AN, EM, FC, LB, LL, PV}
 itasim-\VTA<persevere in talking to s.o. {AN}
@@ -672,7 +641,6 @@ iyaskohc	\IPC<next in sequence {EM}
 iYêpêsin-\VAI<lie on one's side $[wC: thîthipîsin-] {AN, JO}
 iyika\IPC<not to be expected {LB}
 iyinaskihkw-\NA<kettle {LB}
-iYini\IPV<common, plain {LB}
 iyinihkêwin-\NI<custom {LB}
 iYinitoskâtâskw-\NA<wild carrot {AN}
 iYiniwî-\VAI<heal, get well; be healed of wounds, sores {AN, LB}
@@ -684,8 +652,6 @@ iYinîwistikwân-\NI<human head {LB}
 iyipahtâ-\VAI<trot {LB}
 iyiwêho-\VAI<go voluntarily to death {LB}
 iyîhkwatin-\VII<be frosty, hoar frost {FC}
-iyîkatê\IPC<aside, off to one side {AN}
-iyîkatê\IPV<aside, off to one side {AN, LB}
 iyîkatê-kwâskohti-\VAI<jump aside {AN}
 iyîkatêhtah-\VTA<lead s.o. aside {AN}
 iyîkatêhtê-\VAI<walk off to one side {AN, LB}
@@ -716,7 +682,6 @@ iyôskisi-\VAI<be soft, tender {LL}
 înitawi\IPV<common, ordinary [cf. iyinito IPV] {LB}
 îwahikan-\NA<pounded meat $[usually pl; cf. -îwahikan- NDA, yîwahikan- NA] {LL, PV}
 k-ôsihkosiwayâniw	\INM<Ermineskin, Has-an-Ermineskin $[male personal name] {EM}
-ka-kî\IPV<can, be able to; may; should, ought to $[cf. kita-kî IPV, ta-kî IPV] {AC, FC, LL, ME, N-2, SR}
 ka-kiYâskiski-\VAI<tell lies $[rdpl] {AN}
 (kahini\IPC<why, yes, do (ratification ?) {LB})
 kahkwêYiht-\VTI<be jealous, be jealous of s.t. {FC}
@@ -729,28 +694,22 @@ kakayêyisiwin-\NI<cheating $[rdpl; also: kakayêsisiwin-] {AN}
 kakayêyisîh-\VTA<cheat s.o. $[rdpl; also kakayêsîh-] {AN}
 kakâsîyâpahw-\VTA<wipe s.o.'s eyes $[rdpl] {AN}
 kakâsîyâpi-\VAI<wipe one's eyes $[rdpl] {AN}
-kakêpâci\IPV<stupidly {LB}
 kakêpiht-\NA<deaf person {AN}
 kakêskimohikowin-\NI<punishment {ME}
 kakêYipî-\VAI<hurry $[rdpl] {LB}
 kakwâhYahkamik\IPC<goodness {LB}
 kakwâhYakêYati-\VAI<be in vast numbers {LB}
 kakwâhYakêYatin-\VII<be in vast numbers {LB}
-kakwâhYaki\IPV<greatly, extremely; with startled surprise $[cf. kakwâYaki IPV] {FC, LB, LL}
 kakwâhYakinâkosi-\VAI<be of frightful appearance {LB}
 kakwâhYakinikê-\VAI<come at a frightful speed {LB}
 kakwâtakahkatiso-\VAI<be terribly hungry; be terribly thin, have a starved look about one {AN}
 kakwâtakâpâkwaho-\VAI<suffer mortification by denying oneself liquid, make oneself suffer thirst {SW}
-kakwâYaki\IPV<greatly, extremely $[cf. kakwâhYaki IPV] {EM}
 kakwâYakiyawêh-\VTA<make s.o. terribly angry {PV}
-kakwê\IPV<try to, attempt to $[see also koci IPV] {AC, EM, FC, HW, KA, LB, LL, ME, PV, SW}
-kakwêci\IPV<try $[cf. wC: kakwîcî- VAI] {LB, SR}
 kanawêYiht-\VTI<keep s.t., preserve s.t., look after s.t., take care of s.t. {AN, EM, FC, LL, PV}
 kanawêYihtamôh-\VTA<ask s.o. to look after (it/him); leave (it/him) in s.o.'s care, leave )it/him) to be looked after by s.o. {AN, EM}
 kanawêYimatihkowêw-\NA<sheep herder {AN}
 kanawêYimostosowêw-\NA<cattle herder {AN}
 kanawêYiskwâhtêmêw-\NI<door keeper {AN}
-kanâci\IPV<clean {EM, HW, LB, PV}
 kanâcihtawahê-\VAI<clean one's own car {LB}
 kanâpamikowisi-\VAI<be cared for by higher powers {LB}
 kapatâhoy-\VTA<bring s.o. to shore {LB}
@@ -775,14 +734,12 @@ kaskâhpit-\VTA<tie s.o. in a bundle (with a blanket) {AN}
 kaskâhpit-\VTI<tie s.t. so it does not loosen {AN}
 kaskâpiskisikan-\NI<canned food; tin of canned food {AN}
 kaskêhtamihtâso-\VAI<make things sad for oneself {LB}
-kaski\IPV<dense {LB}
 kaskicêwâyôwês-\NA<black tail weasel {LB}
 kaskihtwâso-\VAI<get (it/him) for oneself {LB}
 kaskikwâsopayihcikanis-\NI<sewing machine $[dim] {EM}
 kaskikwâsopayihcikâkê-\VAI<do machine-sewing with something; use something to machine-sew {EM}
 kaskikwâsopayîs-\NI<sewing machine {N-3, SR}
 kaskitêwêkin-\NI<black cloth, black material {AN, LB}
-kaskitêwi\IPV<black {LB}
 kaskitêwiYowê-\VAI<have a dark tail {AN}
 kaspâhcikê-\VAI<chew with a crunchy noise, make a crunchy noise while chewing {FC}
 katonahêw-\NA<Indian of a certain tribe {LB}
@@ -803,8 +760,6 @@ kayâsakohp-\NI<old blanket {AN}
 kayâsasâm-\NA<old snowshoe {AN}
 kayâsastis-\NA<old glove, old mitt {AC, AN}
 kayâsastotin-\NI<old hat {AN}
-kayâsi\IPN<old; long ago, old-time $[cf. kayâsi IPV] {AC, EM, LB, N-3}
-kayâsi\IPV<old $[cf. kayâsi IPN] {AC}
 kayâsiyâkan-\NA<Old-Pan $[male personal name] {EM}
 kâ-kitokonamihk\INM<double-barrelled shotgun $[? deverbalized ?; cf. kitokon- VTI?] {LB}
 kâ-kîhtwâm\IPC<again and again $[rdpl] {FC}
@@ -813,7 +768,6 @@ kâ-mihkwaskwâhki\INM<beets $[cf. mihkwaskwân- ??] {FC}
 kâ-nihcâwâhcawêpaYîsis-\NA<squirrel $[? deverbalized ?] {LB}
 kâ-nikamomakahk\INM<record player, phonograph {LB}
 kâ-piskatahastâhk\INM<province {FC}
-kâh\IPV<would, ought to; likely to $[cf. tâh IPV] {LL}
 kâh-kimiwan-\VII<rain periodically, have periodic rain showers $[rdpl] {AN}
 kâh-kito-\VAI<hoot (e.g. owl); call repeatedly $[rdpl] {AN, SW}
 kâh-kiyâski-\VAI<tell lies repeatedly $[rdpl] {AN}
@@ -844,24 +798,18 @@ kâsiyâpi-\VAI<wipe one's own eyes {LB}
 kâsîcihtê-\VAI<wash one's own hands $[cf. kâsîcihcê- VAI] {LB}
 kâsîp-\NA<boil, skin eruption {LB}
 kâsô-\VAI<hide $[also: kâso-] {AN, EM, FC, HW, LB}
-kâspi\IPV<crunching {LB}
 kâtaw-\VTA<hide (it/him) from s.o. {LB}
 kâwiya\IPC<no; not $[in conjunct and imperative clauses; cf. êkâ IPC, êkâwiya IPC, êkây IPC, êkâya IPC, kâya IPC] {FC}
 kâwîhkwêYi-\VAI<frown {LB}
 kâYawâtisi-\VAI<be diligent {LB}
 kâYawisi-\VAI<be diligent {LB}
-kê\IPV< [grammatical preverb] $[future; conditional "shall"; defines a changed conjunct clause] {FC, LB, ME}
-kêhtê\IPC<old {HW, LB}
 kêhtêYâtisi-\VAI<be old, be an old person; act like an elderly person {AN, SW}
 kêkâ-mitâtahtomitanaw kêkâ-mitâtahtosâp\IPC<ninety-nine {FC}
-kêkâci\IPV<almost {LB}
 kêkwân\PR<what $[sC; cf. kêkwây PR] {LB}
 kêkwânihkân\PR<what sort of thing? $[sC] {LB}
 kêsiskaw-\VTA<come in time for s.o., come upon s.o.; reach s.o. in time (e.g. before departure) {AN, LB}
 kêsiskaw-itôt-\VTI<do s.t. hurriedly {AN}
 kêsiyâkê-\VAI<cheat {FC}
-kêt\IPV<take off, remove {AC}
-kêtiski\IPV<to exact measure {LB}
 kêtôwatê-\VAI<put down one's own burden {LB}
 kêYakicên-\VTA<tickle s.o. {FC}
 kêYakicihcê-\VAI<have itchy hands {FC}
@@ -871,7 +819,6 @@ kêYakisitê-\VAI<have itchy feet {FC}
 kêYakisî-\VAI<itch, be itchy {AN, FC}
 kêYakisîwin-\NI<itchiness; seven-year itch {AN, SR}
 kêYakistikwanê-\VAI<have an itchy head {FC}
-kici\IPV<so that $[grammatical preverb with conjunct clause] {LB}
 kicikîskisîs-\NA<tomtit {LB}
 kicistahiYâkanê-\VAI<wash dishes, wipe dishes {LB, SR}
 kicistêyikomêso-\VAI<wipe one's own nose {LB}
@@ -892,17 +839,14 @@ kihci-kiskinahamâtowikamikw-\NI<university $[cf. AC: kihci-kiskinohamâtowikami
 kihci-kiskinohamâtowikamikw-\NI<university $[cf. LL: kihci-kiskinahamâtowikamikw- NI] {AC}
 kihci-kîsikowi-Yôhtênawêwin-\NI<gate of heaven {ME}
 kihci-oyâkan-\NI<large dish {FC}
-kihcihtwâwi\IPN<of exalted character; venerable, holy $[cf. kihcihtwâwi-mêriy "Holy Mary"] {EM}
 kihcitân-\VTI<jab s.t. in by hand {LB}
 kihtimêyiht-\VTI<be tired of s.t. {EM}
 kihtimiho-\VAI<be lazy; be tired of being lazy ?? {LB, SR}
-kika\IPV< [grammatical preverb] $[future; cf. ka IPV, kita IPV, ta IPV, tita IPV] {KA, LL, N-1, PV}
 kikamôh-\VTA<fasten s.o. on, attach s.o.; put s.o. (e.g. yarn) on something {AN, EM, LL}
 kikôwatêsin-\VAI<lie with one's load on {LB}
 kimisâhowinêkin-\NI<toilet paper {FC}
 kinâkwâYowêwisip-\NA<pin tail duck {LB}
 kinikinikw-\NI<shrub mixture (red willow bark and green leaves) used as traditional tobacco for the pipe {FC}
-kino\IPN<long, length {AN}
 kino-miyêstawânê-\VAI<have a long beard $[also: kino-mîhêstawânê-] {LB, SR}
 kinokayi-\VII<stretch {AN}
 kinokwayawêwisip-\NA<spoonbill duck {AN}
@@ -911,7 +855,6 @@ kinostawê-\VAI<have a long beard {AN}
 kinoyowê-\VAI<have a long tail $[also: kinoyiwi-] {AN}
 kinwâskitês-\NI<tin-can {LB}
 kipêhtamiskâko-\VAI<over-eat and feel badly {AN}
-kipi\IPV<blocking {LB}
 kipihtinamâ-\VAI<be stopped {LB}
 kipistahw-\VTA<hit s.o. accidentally $[?? pistahw- ??] {AN}
 kipocâpiwâhpiso-\VAI<be blindfolded {AN}
@@ -920,18 +863,13 @@ kipwâhpit-\VTA<tie s.o. closed in (in a sack) {AN}
 kipwâhpit-\VTI<tie s.t. closed in (in a sack) {AN}
 kisâpahcikan-\NI<fireplace {FC}
 kisâst-\VTA<stay with s.o., refuse to leave s.t. {AN}
-kisci\IPV<big {LB}
-kisê\IPV<great, gentle {LB}
 kisêmanitowaskisin-\NI<sandal {FC}
 kisêpâyâkê\IPC<in the morning {LB}
 kisêYiniwatimw-\NA<old dog, old horse {AN}
 kisêYiniwânês-\NA<little old man ?? {LB}
-kisipi\IPV<end, finish, ending {LB, LL}
 kisisawêYiht-\VTI<be interested in s.t. $[used at Winosk] {LB}
 kisisawêYim-\VTA<be interested in s.o. {LB}
-kisiskâ\IPV<fast, quickly {AN, LL}
 kisiwâtisi-\VAI<be merciful {ME}
-kisiwi\IPV<anger {LB}
 kisîkitot-\VTA<speak to s.o. in anger $[?sp: -î-] {EM}
 kisîpêkahtakinikê-\VAI<wash the floor $[also: kisîpêkihtakinikê-] {FC, LB}
 kisîpêkapitê-\VAI<brush one's own teeth {N-3}
@@ -945,7 +883,6 @@ kisîpêkistitên-\VTA<bathe s.o. {AN}
 kisîpêtakinikê-\VAI<scrub the floor, floors {N-2}
 kisîpêyâkanikan-\NI<dishwasher {FC}
 kisîwêYiht-\VTI<be mentally angry {AN}
-kisîwi\IPV<angrily, in anger {LL}
 kisîYâsi-\VAI<sail fast {AN}
 kisîYâst-\VTI<sail fast {AN}
 kisk-\VTI<wear s.t. {LB}
@@ -972,7 +909,6 @@ kistatâmon-\VII<be well-beaten (i.e. a path) {AN}
 kistikânis-\NI<garden $[dim] {AN}
 kistikânis-\NI<vegetable $[dim; generally pl] {AN}
 kistikêwînaw-\NA<farmer, farm instructor {LB}
-kita\IPV< [grammatical preverb] $[future ("will, shall"); infinitive; optative ("ought, should"); cf. ka IPV, kika IPV, ta IPV, tita IPV] {AC, AN, FC, HW, KA, LB, LL, ME, N-1, PV}
 kitahamâ-\VAI<forbid {LB}
 kitahamâkêw-\NI<one who forbids {AN}
 kitakî\IPV<can, be able to; may; ought to $[cf. kakî IPV, takî IPV] {ME}
@@ -983,7 +919,6 @@ kitâpipaYiho-\VAI<turn to look {HW, LB}
 kitimâk-ôhpikih-\VTA<raise s.o. in poverty; raise s.o. as an orphan {EM}
 kitimâkaskât-\VTA<outrun s.o. in pitiful way (?) $[VAI?] {LB}
 kitimâkêYihcikêw-\NA<one who feels sorry for others {AN}
-kitimâki\IPV<pitiable, pitiably {LB}
 kitimâkinâkêw-\NA<sympathizer {AN}
 kitohcikanihkêw-\NA<maker of musical instruments {AN}
 kitowân-\NI<cry of a bird or animal; ?? {AN}
@@ -995,9 +930,6 @@ kiYatowa\IPC<your sort $[cf. kiYa itowahk] {LB}
 kiYâskiwâcim-\VTA<tell false tales about s.o. {AN}
 kiYâskiwâcimo-\VAI<tell false news {AN}
 kiYâskiwâcimostaw-\VTA<tell lies to s.o. {AN}
-kiyê\IPV< [grammatical preverb] $[future; in changed conjunct clauses] {PV}
-kiyi\IPV<[grammatical preverb] $[future; defines a conjunct clause]
-kî\IPV< [grammatical preverb] $[past, completion] {AC, AN, FC, HW, KA, LL, ME, N-1, PV, SR}
 kîhcêkosîwêpin-\VTA<fling s.o. onto a high thing  {LB}
 kîhiko-\VAI<fail to keep s.t. {LB}
 kîhkâtêyihtâkwan-\VII<be held in high esteem, be prominent {EM}
@@ -1021,7 +953,6 @@ kîkwâya\PR<what [anim obv / inan pl] {FC, LL}
 kîmâpahkêw-\NA<spy {AN}
 kîminicâkan-\NA<bastard; illegitimate child {AN, LB}
 kîminicâkanihkê-\VAI<give birth to an illegitimate child {AN}
-kîmôci\IPV<secretly, by stealth {LB}
 kînakatêniyôsip-\NA<a certain small duck {LB}
 kînikokot-\VTA<whittle s.o. to a point {AN}
 kînikokot-\VTI<whittle s.t. to a point {AN}
@@ -1029,7 +960,6 @@ kînikwânipaci-\VII<revolve, rotate, spin {LB}
 kînipohê-\VAI<become sharp, sharpen; ?? $[perhaps: kînipoh- VTA ??] {AN}
 kînwahkwêh-\VTA< ?? {LL} {p. 258}
 kîpêhtâ-\VAIt<do s.t. quickly {AN}
-kîpi\IPV<quickly {AN}
 kîpihki-\VAI<grow quickly {AN}
 kîpihkin-\VII<grow quickly {AN}
 kîpikwâsi-\VAI<sew quickly {AN}
@@ -1037,7 +967,6 @@ kîsapit-\VTI<finish s.t.; finish tying s.t. {AN, ME}
 kîsapwênipayi-\VII<turn, become milder (quickly) {AN}
 kîsâcimo-\VAI<finish a story {LB}
 kîsâyâ-\VAI<be finished, through {AN}
-kîsi\IPV<finish; completely, to completion; completing, having done {AC, AN, EM, FC, HW, KA, LB, LL, N-3, PV}
 kîsi-nâtêYiht-\VTI<regret s.t. {AN}
 kîsi-nâtêYihtamaw-\VTA<regret (it) deeply for s.o. {AN}
 kîsi-nâtêYihtamowin-\NI<regretfulness {AN}
@@ -1064,19 +993,14 @@ kîsohtâ-\VAIt<make s.t. warm (e.g. house, by insulating) {AN}
 kîson-\VTA<warm s.o. (by holding) {AN, LB}
 kîson-\VTI<warm s.t. (by holding) {AN}
 kîsopîhtawêyân-\NA<warm undergarment {AN}
-kîsopwê\IPV<with hot weather {LB}
 kîsosim-\VTA<lie s.o. down and cover him warmly {AN}
 kîsosimo-\VAI<be lying warmly (in bed) {AN}
-kîwâci\IPN<lonely, desolate, bereaved {AN}
-kîwâci\IPV<orphaned, stray; lonely, desolate {AN, LB}
-kîwê\IPV<back, homeward {LB}
 kîwêhoy-\VTA<take s.o. home (by water) {ME}
 kîwêpayi-\VAI<go, drive, ride back, home {HW, LB, LL, PV}
 kîwêtin-\NI<north wind; the north {AN}
 kîwêtotah-\VTA<return to s.o.; go back home to s.o. {AN}
 kîwêyahkahw-\VTA<push s.o. home by tool {LB}
 kocêhowin-\NI<exam {FC}
-koci\IPV<try to $[see also kakwê IPV] {AC, LB, N-3}
 kocipaYiht-\VTA<try s.o.; ?? {AN}
 kohcipayih-\VTA<swallow s.o. {LB}
 kohcipayihcikanêyâpiy-\NI<gullet, esophagus $[proposed term] {MT}
@@ -1113,8 +1037,6 @@ kôhtâkan-\NI<windpipe, throat $[? cf. -kôhtâkan- NDI] {LB}
 kôniwâpoy-\NI<snow water {FC, LL}
 kôskawâtapi-\VAI<sit quietly {LB}
 kôskawâtêyihtâkwan-\VII<be quiet, tranquil {LB}
-kôta\IPV<long for, be deprived of {LB}
-kôtatê\IPV<at a loss, making no attempt {LB}
 kôtawi\IPV<impatiently {LB}
 kôwiYîkwanêw-\NA<yellow feather with black tip {LB}
 kwaskipaYi-\VAI<twist round {LB}
@@ -1123,19 +1045,15 @@ kwatakâposw-\VTA<torment s.o. with smoke {LB}
 kwatakêYimo-\VAI<feel miserable {LB}
 kwatakihiso-\VAI<torment oneself {LB}
 kwayahiko-\VAI<act quickly {LB}
-kwaYako\IPV<taking out, directly {LB}
 kwaYasitêwêpin-\VTA<toss s.o. in {LB}
 kwaYasitêyahkin-\VTA<push s.o. into a hole {LB}
 kwayask-itatisi-\VAI<be well behaved; be honest {AN}
-kwayaski\IPV<properly $[cf. kwayasko IPV] {EM}
-kwayasko\IPV<straight; properly, correctly $[cf. kwayaski IPV] {LB, ME}
 kwayasko-kâpawi-\VAI<stand straight {FC, ME}
 kwayaskomohtâ-\VAIt<apply s.t. in its proper place {AN}
 kwayaskosawâcikan-\NI<board with lines cut through it {LB}
 kwayaskotomon-\VII<be straight {AN}
 kwayaskwamo-\VII<be a straight road {LB}
 kwayaskwâtâmon-\VII<be a straight road {AN}
-kwâhci\IPV<far off {PV}
 kwâhkotêwêpah-\VTI<rub s.t. to make fire {LB}
 kwâhkwêskin-\VTA<turn s.o. around {AN}
 kwâhkwêtipin-\VTA<turn s.o. over repeatedly {AN}
@@ -1146,7 +1064,6 @@ kwâpikâwê-\VAI<use (s.t.) to dip water {AN}
 kwâsihtow-\VTA<filch (it/him) from s.o.; seduce s.o.'s wife {LB}
 kwâsiskwêwê-\VAI<lose one's wife by seduction ? {LB}
 kwâskwâskwanipîhkêw-\NI<big vein from heart $[rdpl] {LB}
-kwâskwê\IPV<upwards {PV}
 kwâtakêYim-\VTA<feel deeply for s.o. in sickness $[cf. kakwâtakêYim-] {AN}
 kwâtakêYimo-\VAI<feel self-pity $[cf. kakwâtakêYimo-] {AN}
 kwâtakih-\VTA<mistreat s.o. $[cf. kakwâtakih-] {AN}
@@ -1161,14 +1078,12 @@ kwêskipimâtisîh-\VTA<convert s.o., make s.o. change lifestyle {AN}
 kwêskosi-\VAI<whistle $[also: kwêskosî-] {AN, LB}
 kwêskosim-\VTA<whistle to s.o. {LB}
 kwêskosiYâstan-\VII<be a whistling wind {LB}
-kwêtawi\IPV<doubtful {AN}
 kwêtawitôt-\VTI<do s.t., but in doubt {AN}
 kwêtipahtin-\VII<be tipped over {LB}
 kwêtipawêpisk-\VTI<knock s.t. over {LB}
 kwîhtawêYiht-\VTI<miss s.t., yearn for s.t. {FC}
 kwîhtawêYim-\VTA<miss s.o., yearn for s.o., pine for s.o. {FC, LB}
 kwîtawêYihcikâtê-\VII<be missed, be in short supply {EM}
-kwîtawi\IPV<impatiently {LB}
 mac-âcim-\VTA<tell bad things of s.o., tell hurtful gossip of s.o. $[also: maci-âcim-] {AN, SR}
 mac-âcimo-\VAI<tell bad news $[also: maci-âcimo-] {AN}
 mac-âcimoski-\VAI<always tell bad news, be in the habit of telling hurtful gossip $[also: maci-âcimoski-] {AN, SR}
@@ -1180,11 +1095,9 @@ macastêhamânakêwin-\NI<ceremonial offering {FC}
 macastiwêh-\VTI<throw s.t. in the fire, light s.t. up with fire {FC}
 macâhpinê-\VAI<have venereal disease, have a nasty disease {LB, MT}
 macêkin-\NI<tipi {LB}
-maci\IPV<bad, evil, wicked, wrong, ill {AC, AN, EM, FC, LB, LL, ME}
 maci-ayisiyiniw-\NA<bad, evil people $[also: mac-âyisiyiniw] {HW}
 maci-isi-wêpisi-\VAI<behave badly, be bad $[also: mac-îsi-wêpisi-] {AN}
 maci-isihcikê-\VAI<do wicked things {AN}
-maci-manitowi\IPV<evil, devilish; Devil's {LL}
 macikonâs-\NI<garbage; weed $[cf. macikwanâs-] {LB, N-1}
 macikôcicak\IPC<for example {LL}
 macikwanâsiwi-\VII<be weedy; be piled with rubbish {AN}
@@ -1193,7 +1106,6 @@ mahkatêwâ-\VII<be black {LB}
 mahkatêwisi-\VAI<be black {LB}
 mahkâpiskâw-\NA<large piece of metal {AN}
 mahkêsîsi-wat-\NI<fox hole $[sg: mahkêsîsi-wati] {AN, SR}
-mahki\IPN<big, large
 mahkimiyêsâpiwinê-\VAI<have large eyelashes {AN}
 mahtâmin-kistikân-\NI<corn field {AN}
 mahtâminis-\NA<kernel of corn {AN}
@@ -1212,7 +1124,6 @@ manahipêmê-\VAI<skim off the fat {AN}
 manahiskowê-\VAI<collect spruce gum {AN}
 manahkwatatahw-\VTA<peel s.o. (as bark from a tree) {LL}
 manawê-\VAI<take eggs from nests {AN}
-mani\IPV<with the intent of, with the purpose of {SW}
 manicôkâ-\VAI<dance a spirit dance {LB}
 manitowêkin-\NI<broadcloth, shroud {LB}
 manitowêpîwâpiskw-\NI<tempered steel {AN}
@@ -1233,9 +1144,7 @@ maskawisihtâ-\VAIt<strengthen s.t. {AN}
 maskêkowaskiy-\NI<swampland {AN}
 maskwasiy-\NI<grass $[cf. maskosiy-] {LB}
 maskwaskâ-\VII<be many bears around {AN}
-mastâ\IPV<later {LB}
 matê-\VAI<be not here $[Eastern Cree; not commonly found in Western dialects; cf. mat- VTA] {LB}
-matwê\IPV<audibly, visibly; perceptibly; loudly; heard or seen from a distance {AN, HW, LB, ME, N-3, SW}
 matwêtaYêhkaso-\VAI<pop at the belly from heat {LB}
 mawisostamaw-\VTA<gather berries for s.o. {AN}
 mayaskosih-\VTI<burn grass (for s.t.) (?) {LB}
@@ -1248,8 +1157,6 @@ mayê-\VII<be not (the one) {LB}
 mâ-mitâtaht\IPC<ten times; ten apiece {AN}
 mâ-mitâtahtomitanaw\IPC<one hundred each {AN}
 mâc-âhkosi-\VAI<be getting sick; be beginning labour {MT}
-mâci\IPN<beginning {FC}
-mâci\IPV<begin to, start to; commencement; initially {AC, AN, EM, FC, KA, LB, LL, ME, MT, N-3, PV, SW}
 mâcic\IPC<at last {LB}
 mâcikôtisak\IPC<let me show you, for example {LB}
 mâcîhtâ-\VAIt<start s.t., begin to operate s.t. {AN}
@@ -1263,7 +1170,6 @@ mâhâpaYi-\VAI<drift downstream {AN}
 mâhâpokô-\VAI<canoe downstream {LB}
 mâhâpoYô-\VAI<drift downstream {LB}
 mâhâpwêwê-\VAI<paddle downstream {LB}
-mâhi\IPV<downstream {LB}
 mâhkipakâ-\VII<be big leaves; the growth of leaves {LL}
 mâhmâkwahcikanêyâpiy-\NI<rawhide rope $[rdpl] {PV}
 mâhtâwisihcikê-\VAI<do things wondrously, do things strangely {AN}
@@ -1275,7 +1181,6 @@ mâkwâh-\VTI<press s.t. close by tool, with horns $[cf. mâkwahw- VTA] {LB}
 mâkwâskohw-\VTA<oppress s.o. (as tool) $[e.g. "tree" as actor] {HW}
 mâmaw-ôhtâwîmâw-	\NA<All Father, Father-of-All, God $[cf. mâmawi-ohtâwîmâw-] {EM}
 mâmawaci-kayâs\IPC<at the very earliest time $[cf. mâmawo-kayâs] {SW}
-mâmawi\IPV<together; in full number of them all, all together, all together as a group $[also: mâmâwi] {AN, EM, LB, LL}
 mâmawi-api-\VAI<sit altogether {AN}
 mâmawîhito-\VAI<meet illicitly together {LB}
 mâmamôwaskami-kihci-oyasiwêwin-\NI<article of constitution $[pl: mamamôwaskami-kihci-oyasiwêwina "constitution"] {CC}
@@ -1290,10 +1195,8 @@ mâna\IPC<used to; always, usually, habitually, generally {AC, AN, EM, FC, HW, K
 mâna\IPC<to be feared, trouble ahead {LB}
 mânahtê-\VAI<get one's pelts, get furs {LB, PV}
 mânihtoYâsk-\NI<hide-scraping tool made of bone, axe for scraping-hides {LB}
-mâninâkisko\IPV<without hesitation, entirely {LB}
 mâsihto-\VAI<wrestle with one another {AN}
 mâsikîskw-\NI<cedar, cedar bush {AN, LB}
-mâski\IPV<crippled; defective, defformed {AN, LB}
 mâskipi-\VAI<be crippled {LB}
 mâskosiwân-\NI<a certain water reed with edible stem {LB}
 mâskosiwânikamâ-\VII<be a reedy lake {LB}
@@ -1305,21 +1208,15 @@ mâwasakocahw-\VTA<round s.o. up {LB}
 mâwasakostâ-\VAIt<gather s.t. into a heap {AN}
 mâYahpin-\VTA<abuse s.o.; make s.o. sick {LL, SR}
 mâYatihkos-\NA<lamb {AN}
-mâYâci\IPV<bad {LB}
-mâYi\IPN<bad, ugly, nasty, evil, wicked {ME}
-mâYi\IPV<bad, evil; badly, evilly, wickedly {AC, AN, EM, FC, LB, LL, ME, PV}
 mâYisikô-\VII<have rough ice (as a lake); be a lake with rough ice {LB}
 mâYîhkwêyist-\VTI<sneer at s.t. {LB}
-mêcimwâci\IPV<permanently, for good {HW, LB}
 mêkiskwêmâ-\VAI<court, woo {LB}
-mêkwâ\IPV<currently, presently, right now; while, during, in the meantime, in the act or place $[cf. mêkwâc IPC] {AC, AN, EM, FC, HW, KA, LB, LL, ME, SR}
 mêkwâ-atoskê-\VAI<while working {AN}
 mêkwâskamâ-\VAI<come during the time {LB}
 mêmihtâcîwin-\NI<thing regretted, lost in gambling {LB}
 mênikanâhtaw-\VTA<make a fence for s.o.; ?? {AN}
 mêniskêhkê-\VAI<dig a trench $[cf. mêniskihkê-] {HW}
 mêriy-\NA<Mary $[personal name] {HW, LL}
-mêsci\IPV<exhaustively, till all is gone {HW, LB}
 mêsimin-\NI<a certain fruit or berry ? {LB}
 mêskanâhkan-\NI<graded road {AN}
 mêskoton-\VTA<exchange s.o. {AN}
@@ -1337,7 +1234,6 @@ mêstaYacihkwasi-\VAI<be sleepy from rising early {LB}
 mêstâciwâtê-\VII<boil dry {AN}
 (mêstâpahw-\VTA<wear s.o. away (by action); ?? {AN})
 mêstâskisihw-\VTA<burn s.o. out, burn s.o. away {AN}
-mêsti\IPV<be used up, burnt out, spent {AN}
 mêstihkâhtê-\VII<burn down {AN, LL}
 mêtwêYanê\IPC<as was my foreboding, as I felt in my bones {LB, SR}
 micakisîs-\NI<sausage; [slang:] penis $[dim] {FC}
@@ -1371,7 +1267,6 @@ mihkwâpêmakw-âya\IPC<"red willow" stuff $[sometimes pluralised as if NI] {SW}
 mihkwêkin-\NI<red cloth {HW, LB}
 (mihtaw-\VTA<be dissatisfied with s.o. {LB})
 (mihtâh-\VTA<feel sorry for s.o.; ?? {FC})
-mihYawê\IPV<with fur or body hair $[also: miYawê, mîhawê] {LB}
 (mihYôwi-\VII<be green (as wood); ?? {LB})
 mikêhkwan-\NI<tanning tool, to remove fat and grizzle $[cf. mîhkîhkwan-] {AN}
 mikîkomin-\NI<wild black currant {LB}
@@ -1392,8 +1287,6 @@ misâhcinêh-\VTI<buy s.t. {LL}
 misâhtâ-\VAIt<make s.t. big, make s.t. bigger $[cf. misihtâ-] {AN, LB}
 misâskwacosîhk\IPC<among the saskatoon willows {LB}
 miscanikwacâs-ôsôs-\NI<horsetail grass; "gopher tail" $[dim; generally pl: miscanikocâs-ôsôsa] {LB}
-misi\IPN<big, large, great $[cf. misi IPV] {AC, AN, KA, LL, ME, N-3, SR}
-misi\IPV<big, greatly; much, a lot; very, extremely, to the extreme $[cf. misi IPN] {AC, EM, FC, HW, KA, LB, LL, ME, N-3, PV, SR, SW}
 misi-ayiwâk\IPC<much more {LL}
 misi-mohkâhâsiw-\NA<heron {AN}
 misi-tâwin-\VTI<make a large opening {AN}
@@ -1421,7 +1314,6 @@ mistâhcikê-\VAI<eat a lot {AN}
 mistâhkêsiw-\NA<lion {LB}
 mistâkayâsiw-\NA<big Englishman {LB}
 mistik\IPC<miles [unit of measurement] {AC, FC}
-mistiko\IPV<wood {LB}
 mistikowanihikê-\VAI<use wooden traps {LB}
 miswâ-\VAI<be wounded {AN}
 mitahtahkwan-\NI<wing {AC}
@@ -1430,8 +1322,6 @@ miy-\NI<pus $[sg: miyi] {AN, MT}
 (miYahciwanân-\NI<pubic hair {LB})
 miYân-\VTI<leave fresh tracks {PV}
 miYâskam\IPC<past; gone beyond (e.g. the hour) {AC, FC, ME, SR}
-miYo\IPN<good, well {AC, LL, ME, N-3}
-miYo\IPV<good, well, beautiful, valuable {AC, AN, EM, FC, LB, LL, ME, N-3, PV, SW}
 miYo-isihcikê-\VAI<do, act well {AN}
 miYo-isihcikêwin-\NI<good deed {AN}
 miyo-ohpikinâwasowin-\NI<good-child-rearing {TP}
@@ -1474,7 +1364,6 @@ môhcikan-\VII<be fun {AC, AN}
 môhcikêYiht-\VTI<be merry, happy; be thrilled by s.t. {AC, AN}
 môhcikih-\VTA<make s.o. happy {AN}
 môhcikihtâwinihkê-\VAI<throw a party {AC}
-môhco\IPV<silly, crazy {LB}
 môhcôyinîwi-\VAI<be a crazy man {LB}
 môhkamik-\NA<long-legged duck {LB}
 môhkasiw-\NA<heron {LB}
@@ -1488,7 +1377,6 @@ mônahâskwê-\VAI<harvest; root {LL}
 môniyâw-âya\IPC<White stuff $[sometimes pluralised as if NI] {SW}
 môniyâw-iyiniw\NA<Canadian, White-Man $[cf. môniyâw- NA] {HW}
 môniyâw-îhtwâwin-  \NI<White-Man's way, custom {LL}
-môniyâwi\IPN<White-Man's {LL}
 môsasiniy-\NI<bullet {LB}
 môsâhkinikêw-\NA<collector {AN}
 môsis\IPC<done in the open {AN}
@@ -1503,7 +1391,6 @@ môya ahpô\IPH<not even {LL}
 môya awiyak\PR<no-one, nobody {LL}
 môya cî\IPH<isn't that so? [cf. ma cî] {HW}
 môya nânitaw\IPC<it's fine, all right $[cf. môy nânitaw IPC] {LL}
-mwayî\IPV<before, prior to $[cf. mwayês] {SR}
 mwâskêsiwân-\NI<a certain water-reed with edible stem {LB}
 na-nâh-nêstopayi-\VAI<be lethargic $[rdpl] {MT}
 na-nêpêwih-\VTA<make s.o. ashamed; shame s.o. $[rdpl] {AN}
@@ -1517,20 +1404,16 @@ nahawêkin-\VTI<fold s.t. neatly {AN}
 nahâwêht-\VTI<hear well; hear s.t. well {AN}
 nahâwêhtaw-\VTA<hear s.o. well {AW, JO}
 nahêmisk-\VTI<go against the wind {LB}
-nahi\IPV<well, fair {LB}
 nahikâpawistaw-\VTA<stand in place by s.o.; be s.o.'s best man at a wedding ?? {JO, LB}
 nahipayi-\VII<fit well (like a door on a frame) {AN}
 nahiyikohk\IPC<to the proper degree, to the proper extent, just enough, just right, fittingly, appropriately; exact quantity, exact number; evenly; better {AN, FC, LL, PV, SR, SW}
-nahtâ\IPV<able; good at, competent, practised, experienced, skillful at, expert at, known as one who does s.t. habitually; well $[cf. nihtâ] {JO}
 nakatisamaw-\VTA<drive (it/him) away for s.o. {LB}
 nakatisiht- \VTI<leave s.t. lying {LB}
 nakatito- \VAI<race one another $[cf. nakasito-] {JO, LB}
 nakâpêhan-\VII<be a west wind {LB}
 nakâpêhanohk\INM<west, in the west {DOa}
 nakêyih-\VTA<be unwilling to let s.o. go; ?? {LB}
-naki\IPV<stopping {LB}
 nakiskamohtaw-\VTA<introduce s.o. {FC}
-nakiskaw\IPC<a little while ?? {LB}
 nakwataYêhpicikan-\NI<girth, belly band (of horse's harness) {AW, JO, LB}
 namakîkwayi-\VII<be nothing {LB}
 namakîkwâYiwi-\VAI<come to nothing {HW}
@@ -1559,24 +1442,20 @@ nanwêyacih-\VTA<provoke s.o. {LB}
 nanwêyacihito-\VAI<harrass one another {LB}
 napakâskitiYê-\VAI<have flat buttocks {LB}
 napakêhaYâpiy-\NA<belt {LB}
-napaki\IPV<flat {LB}
 napakitâpânâskw-\NA<toboggan, sled {AN, FC, LB, ME}
 napatê-kîsik\NA<half sky $[? personal name ?] {LB}
 napopayi-\VII<fold over (automatically) {AN}
 naskwêhamâkêwin-\NI<response; an accompaniment {AN}
 naskwêhamâto-\VAI<sing together; accompany one another singing {AN}
-naspâci\IPC<opposite, contrarily {DS, AN}
 naspisihtâ-\VAIt<copy s.t. {LB}
 natah-\VTI<canoe upstream, paddle upstream {AN, LB, SR}
 natawâpaht-\VTI<go to see, fetch s.t. $[cf. nitawâpaht- VTI] {LB}
 natawâpam-\VTA<go to see, fetch s.o. $[cf. nitawâpam- VTA] {LB}
 natawêYihtâkwan-\VII<be necessary, required {LB}
-natawi\IPV<go to $[cf. nitawi IPC] {LB}
 natimiYiniw-\NA<western Cree, upriver Cree {LB, SR}
 natokoyon-\NA<doctor $[Eastern Cree] {LB}
 natokoyon-\NI<medicine $[Eastern Cree] {LB}
 natopê-\VAI<look for a drink; go searching for liquor {AN}
-nawaci\IPV<better {LB}
 nawêyâskomâ-\VAI<lean (as a tree); ?? {AN}
 nawêyicih-\VTA<tease s.o. {AN}
 nawêyicim-\VTA<tease s.o. {FC}
@@ -1589,7 +1468,6 @@ nayêwâc\IPC<off the ground, in the air {LB}
 nayêwâcimo-\VAI<speak on the way; ?? {LB}
 nayihtâwan-\VII<be awkward, difficult $[cf. nayêhtâwan- VII] {FC}
 nâ-nâway\IPC<one behind the other $[rdpl] {HW}
-nâci\IPV<getting {AN}
 nâh-nahihtaw-\VTA<listen obediently to s.o. $[rdpl] {AN}
 nâh-nakî-\VAI<stop now and then $[rdpl] {AN}
 nâh-nanamiskwêkâpawi-\NA<stand with shaking head $[rdpl] {LB}
@@ -1616,11 +1494,9 @@ nâhkâstimon-\NI<sail (light); ?? {LB}
 nânâwaYôkâpawi-\VAI<stand in single file {JO}
 nânâwaYôpaYi-\VAI<go in single file {LB}
 nânâwaYôstâ-\VAIt<place s.t. one behind the other $[also: nânâwaYastâ-] {LB}
-nâpê\IPN<male, maleness {AN}
 nâpê-pâhkahahkwân-\NA<rooster {AN, N-2}
 nâpêw-âya\IPC<men's stuff, men's clothing $[sometimes pluralised as if NI] {SW}
 nâpêwin-\NI<maleness {LB}
-nâtakâsi\IPV<into the bush country {LB}
 nâtawêw-\NA<Iroquois ? {LB}
 nâtawihcikan-\NI<thermometer {JO, LB}
 nâtaYâpê-\VAI<go for one's net $[cf. nâtahapê-] {AN}
@@ -1628,7 +1504,6 @@ nâtahtawât-\VTA<climb to fetch s.o. {JO, LB}
 nâtahtawât-\VTI<climb to fetch s.t. {JO}
 nâtokâtamâ-\VAI<come to the camp $[especially from hunting] {LB}
 nâtopê-\VAI<go for a drink; go for liquor {JO}
-nâwayawi\IPV<one behind the other, in a row {LB}
 nâwaYôhpiso-\VAI<be tied in a sequence {LB}
 nâwaYôhpit-\VTA<tie s.o. in a sequence {JO}
 nâwaYôhpit-\VTI<tie s.t. in a sequence {JO}
@@ -1637,8 +1512,6 @@ nêhiYaw-iskwêsis-\NA<Cree girl {AC}
 nêhiYaw-iskwêw-\NA<a Cree woman, Cree Indian woman {AN, SW}
 nêhiYaw-maskihkiy-\NI<Cree medicine; Indian medicine {PV}
 nêhiYaw-mawimoscikêwin-\NI<Cree ceremony, Cree prayer {FC, SR}
-nêhiYawi\IPN<Cree {LL}
-nêhiYawi\IPV<Cree, in Cree {AC, LL}
 nêhiYawihtwâwin-\NI<the Cree way, Cree culture {SW}
 nêhiYawiYîhkâso-\VAI<be called so in Cree, have a Cree name, have an Indian name {EM, LL}
 nêhpamî-\VAI<be ready {LB}
@@ -1656,7 +1529,6 @@ nihciwêpah-\VTI<knock s.t. down off (of something), push s.t. down off (of some
 nihciwêpahw-\VTA<knock s.o. down off (of something), push s.o. down off (of something) {JO}
 nihciwêpin-\VTA<throw s.o. down, off {AW, JO}
 nihciwêpin-\VTI<throw s.t. down, off {AC}
-nihtâ\IPV<able; good at, competent, practised, experienced, skillful at, expert at, known as one who does s.t. habitually; well {AC, AN, EM, FC, KA, LB, LL, ME, N-2, PV, SR, SW}
 nihtâskwah-\VTI<take s.t. down with a tool (e.g. stick) {AL}
 nihtâskwahw-\VTA<take s.o. down with a tool (e.g. stick) {AL}
 nihtâwikihcikanisihk\INM<James Smith Reserve $[loc; place name]
@@ -1666,13 +1538,11 @@ nikamomakan-\VII<sing; [kâ-nikamomakahk: record player, phonograph]
 nikikopîway-\NI<(single) hair of otter {LB}
 nikotita\IPC<just somewhere {HW, LB}
 nikwahakahapwê-\VAI<roast under ashes {LB}
-nimanâcimâkan-\NA<person to whom speech is avoided {LB}
 nimitâsiYahkahw-\VTA<push s.o. with stick to the country {LB}
 nimitâwiYâsi-\VAI<blow from land out into water {AN}
 nimitâwiYâstan-\VII<blow from land out into water {AN}
 ninîkânimihk\IPC<in front of me {LB}
 nipacikâso-\VAI<be killed {LB}
-nipahi\IPV<really, very, extremely [emphatic]; to prostration or death $[common with descriptions of temperature, as well as likes and dislikes] {AC, LB, LL}
 nipahi-yôtin-\VII<be very windy {HW}
 nipahipâwanî-\VAI<be extremely skinny, lean {FC}
 nipahîhkaso-\VAI<be burned, scalded to death; be extremely hot {DOk, LB}
@@ -1683,7 +1553,6 @@ nipâtisikiwakisimo-\VAI<get oneself muddied (dirty) {LB}
 nipêskâko-\VTA<make s.o. sleep $[restricted, inanimate actor form of nipêskaw- VTA; cf. nipâskâko-] {AN}
 nipôwâpi-\VAI<have weak eyes {LB}
 nisitosi-\VAI<have good flesh {LB}
-nisîhkâci\IPV<gently, carefully, slowly $[also: nisihkâc] {SR}
 niskiskâ-\VII<be an abundance of geese {LB}
 niskîsikohkân-\NI<spectacles, glasses $[always pl: niskîsikohkâna; cf. -skîsikohkân- NDI] {HW}
 nistamosân-\NA<first born {AN}
@@ -1693,31 +1562,25 @@ nisto-kîsikâw\IPC<three days {LL}
 nisto-tipiskâw\IPC<three nights {AN, LB}
 nistotê-\VAI<travel alone with a family of three {LB}
 nitapakon-\VTA<feel for s.o. ? $[?look for s.o. by feel] {LB}
-nitawi\IPV<go and, go to; engaged in {AC, AN, EM, FC, HW, KA, LB, LL, ME, N-3, PV, SR, SW}
 nitawi-ayamihâ-\VAI<go to, attend church, go to pray {AN, ME}
 niYatôwihk\IPC<like me {LB}
 nîhc-âyîhk\IPC<below; down, downstairs; in the low place $[also: nîhcâyihk] {EM, FC, LB, LL}
-nîhci\IPV<down, downwards; bottom {AN, LB, PV}
 nîhciYahkah-\VTI<push s.t. down by tool {JO}
 nîhciYahkahw-\VTA<push s.o. down by tool {LB}
-nîhtaciwê\IPV<downhill, down {LB}
 nîhtaciwêYâhkin-\VTA<push s.o. down the hill or stairs {AN}
 nîhtaciwêYâhkin-\VTI<push s.t. down the hill or stairs {AN}
 nîhtaciwêYâhtawî-\VAI<climb down, descend on wood {LB}
 nîkân-ah-\VTA<put s.o. in front {AN}
 nîkân-astamaw-\VTA<put (it/him) forward for s.o. {DOk}
 nîkân-astâ-\VAIt<put s.t. in front {AN}
-nîkâni\IPV<in front, ahead, at the head, in the future {LB}
 nîkihcanakwêwisip-\NA<blue wing duck {LB}
 nîmâkohpê-\VAI<take one's blankets along (when on a trip) $[also: nîmakohpê-] {AN, SR}
 nîmâskwawinê-\VAI<? have weapons ? {LB}
-nîmi\IPV<take along {AN}
 nîmi-cîkahikanê-\VAI<carry an axe with one {AN}
 nîmi-pâskisikanê-\VAI<carry a gun with one {AN}
 nîmikê-\VAI<portion the food, serve the food {FC}
 nîminâniwan-\VII<be a dance, a time of dancing {LB}
 nîpawi-\VAI<stand, stand up, stand erect, stand there, stand fast {AC, AN, EM, FC, KA, LB, LL, ME, SR}
-nîpâ\IPV<at night, in the dark {LB}
 nîpinaskamikâw-\NI<bare ground after snow melts {AN}
 nîpisîhkopâ-\VII<be a willow groove {LB}
 nîpisîhkopâwiyiniw-\NA<Willow Cree person {DOk}
@@ -1741,13 +1604,11 @@ nîswâw-mitâtahtomitanaw\IPC<two hundred {AN, FC}
 nohcimihk\IPC<inland, in the woods, on the inside; at the far end {AN, FC}
 nosonêh-\VTI<follow s.t. {LB}
 nosonêhw-\VTA<follow s.o. {LB}
-nôhtê\IPV<want to, desire to; lack {AC, AN, EM, FC, KA, LB, LL, ME, N-1, PV, SR, SW}
 nôhtê-pwâkomo-\VAI<be nauseated {MT}
 nôhtêkwasi-\VAI<be sleepy {AC, FC, HW, LB, SR}
 nôhtêkwasipaYi-\VAI<become sleepy {LL}
 nôhtêyâpâkwê-\VAI<be thirsty {AN, FC, LB}
 nônâcikêsîs-\NA<sucker (fish) {LB}
-nôsê\IPN<female {AN}
 nôsê-kôhkôs-\NA<sow {AN}
 nôsê-pâhkahahkwân-\NA<hen {AN}
 Nôtin-\VII<be a wind, windy $[sC; cf. Yôtin-] {LB}
@@ -1771,7 +1632,6 @@ Nôtin-\VII<be a wind, windy $[sC; cf. Yôtin-] {LB}
 -în-\NDI<bone-marrow $[sg: -îni] {MT}
 -îtihp-\NDI<brain {AN, MT}
 -kisêyinîm-\NDA<old man, husband $[cf. kisêyiniw- NA] {LL}
--kohtâkan\NDI<throat {AN, MT}
 -manâcimâkan-\NDA<[female speaking:] father-in-law; [male speaking:] mother-in-law {EM}
 -maskihkîwiskwêm-\NDA<nurse $[cf. maskihkîwiskwêw- NA] {AC}
 -maskihkîwiyinîm-\NDA<doctor $[cf. maskihkîwiyiniw- NA] {AC}
@@ -1836,7 +1696,6 @@ ocêkomisîs-\NA<writer bird $[also: ocîhkomisîs-] {LB}
 ocêpihk-\NI<root $[cf. ocêpihkw-] {EM}
 ocicâkw-\NA<wild turkey, crane $[cf. ocicâhkw-, ocihcakw-] {LB}
 ocihcakw-\NA<crane $[cf. ocicâhkw-, ocicâkw-] {AC}
-ocihci\IPV<back in time; far back; from before, earlier; having lived long enough for something; chance to, live to, live to see {LB, LL, SW}
 ocihcihkwanapi-\VAI<kneel, sit on one's knees $[cf. ocihkwanapi-] {FC, LL}
 ocihcikiskisi-\VAI<remember things, have memories far back {PV}
 ocipwêhtâ-\VAIt<recover from a sickness {LB}
@@ -1863,7 +1722,6 @@ ohtawakêhôw-\NA<large horned owl {AN}
 ohtâpanih-\VTA<nourish s.o. from that source {LB}
 ohtâpaniho-\VAI<get one's food from that source {LB}
 ohtâst-\VTI<sail from over there {AN}
-ohtiskawi\IPV<facing {LB}
 okanawêYiskwahtêmiwêw-\NA<doorkeeper; goaltender, goalkeeper {AW, AN}
 okanawêYiskwâhtêmêw\NI<doorkeeper; goalkeeper, goaltender {AN}
 okawikihkâw-\NA<extremely old person {JO, LB}
@@ -1920,15 +1778,12 @@ osâhkwatamôw-\NA<hawk {LB}
 osâkohcihiwêw-\NA<victor; one who wins {AN}
 osâm\IPC<too much, excessively; because, since, for; because of excess $[causal conjunction] {AC, AN, EM, FC, HW, KA, LB, LL, ME, N-3, PV, SW}
 osâmâhpinê-\VAI<die of illness {LB}
-osâmi\IPV<too much, because of excess, for {LB}
 osâmihkânêtêpo-\VAI<cook too much {LB}
 osâmitonê-\VAI<gossip, talk too much, be too talkative {AN, LB}
 osâpahtêw-\VII<be smokey, hazy {FC}
 osâwasêstakw-\NA<yellow yarn {AN}
-osâwaski\IPV<green {LB}
 osâwâpisk-\NI<brass; copper {AN}
 osâwêkin-\NI<yellow material; yellow cloth {AN}
-osâwi\IPV<yellow, brown {AN, LB}
 osâwi-piyêsîs-\NA<yellow bird; canary {AN}
 osâwi-sênipan-\NA<yellow ribbon {AN}
 osâwi-sôniyâwâpisk\IPC<copper; gold {AW, LL}
@@ -1948,8 +1803,6 @@ osk-âyisis-\NA<young creature $[dim; also: oski-ayisis-] {LB}
 oskana-kâ-asastêki\INM<pile-of-bones; Regina, SK {AN, FC}
 oskanicîwan-\VII<be not yet ripe {LB}
 oskâcihk-\N?<awl {AN}
-oski\IPN<young, new, fresh $[cf. oski IPV] {AC, AN, EM, LL, ME, N-3}
-oski\IPV<new, young, first $[cf. oski IPN] {AC, LB}
 oski-nipiy-\NI<fresh water {AN}
 oski-oYasiwêwin-\NI<new commandment {ME}
 oskimisk-\NA<bud; leaf bud {AN}
@@ -1967,7 +1820,6 @@ ostostaskê-\VAI<cough {LB}
 otahcânisi-\VAI<have a ring {AN}
 otakwâhoni-\VAI<have a shawl {AN}
 otakwâhonêwisimowin-\NI<Fancy Shawl Dance {DOk}
-otami\IPV<busy, occupied, delayed {LB}
 otapâhtêYimow-\NA<meek, humble person {AN}
 otapoYihkêw-\NA<paddle maker $[also: otapôhkêw-] {AN}
 otasihkêw-\NA<resident {AN}
@@ -2014,14 +1866,12 @@ oYât-\VTI<cheer s.t. on  ? {LB}
 pa-pakamahw-\VTA<beat s.o. $[rdpl] {HW}
 pa-pakamahwêsi-\VTA<pat s.o. on the head $[rdpl; dim; cf. pakamahw-, pakamahwêsi-] {AN}
 pa-pêh-\VTA<be still waiting for s.o. $[rdpl; cf. pêh-] {AN}
-paci\IPV<wrongly, in error {EM}
 pacîs-\NA<Baptiste $[personal and family name] {JO, LB}
 pahkaci\IPC< ?? $[cf. pâhkaci "fixed, not moving" {LB}] {LL}
 pahkacimê-\VAI<break one's promise {AN}
 pahkâwiko-\VAI<have a heart beat {AN}
 pahkâwikowin-\NI<pulse {AN}
 pahkêkinowat-\NI<leather bag {AN}
-pahki\IPV<portion of {AN}
 pahkikawi-\VII<be dripping (i.e. a liquid) $[cf. pahkikawin- VII] {AN}
 pahpahahkwân-\NA<shield {HW}
 pahpakwaciho-\VAI<amuse oneself {EM}
@@ -2039,7 +1889,6 @@ pakwâcaskiy-\NI<uninhabited land, desert, hinterland $[cf. pikwâci IPV] {AN}
 pakwâci\IPC<wild $[cf. pikwâci IPV] {AN}
 pakwâci-pisiskiw-\NA<wild animal $[cf. pikwâci IPV] {AN}
 pakwânikamikwêkin-\NI<canvas $["tent-material"; cf. pakowayân-] {LL}
-pakwâno\IPV<from memory {AN}
 pakwâtâhtikw-\NA<tree growing in the desert or desolate area {AN}
 pakwâtosân-\NA<bastard, illegitimate child {AN}
 pakwâtosânê-\VAI<have a child out of wedlock, have an illegitimate child {AN}
@@ -2048,11 +1897,8 @@ pakwâtosê-\VAI<give birth to a child out of wedlock, have an illegitimate chil
 panisâwê-\VAI<cut meat into strips $[cf. manisâwê-; mânisâwê-, pânisâwê-] {LL}
 papakahtikwân-\NI<thin side of skull, temporal bone; ?? {MT}
 papasakwâpi-\VAI<blink, close one's eyes $[rdpl, cf. pasakwâpi-] {AC}
-papâ\IPV<go around, about, all over {LL, PV, SW}
 papâm-âyâ-\VAI<stay here and there; bum around; be unstable {AN}
 papâmâskaw-\VTA<follow s.o. about {AN}
-papâmi\IPV<around, about, all over, here and there, hither and thither {EM, HW, KA, LB, LL, PV}
-papâsi\IPV<fast, in a hurry, quick {PV, SR}
 papâstâm-\VTA<break s.o. with one's teeth {AN}
 papêwê-\NA<Lucky Man $[personal name] {AW}
 papêyahtak\IPC<slowly, carefully $[rdpl] {FC}
@@ -2060,14 +1906,12 @@ papimâtisi-\VAI<be alive and well {FC}
 papimohtê-\VAI<walk along {FC}
 papwâskâ-\VAI<move slowly; come late {LB}
 pasakwâskiw-\N?<pitch, tar $[perhaps: pasakwâski- VAI/VII] {AN}
-pasikô\IPV<get up (from sitting) {LL}
 pasîhkwêtahw-\VTA<slap s.o. on the face {AN, FC}
 paskêtah-\VTA<take s.o. on the side road {AN}
 paskoht-\VTI<clean or clear s.t. by mouth {HW}
 paskom-\VTA<clean or clear s.o. by mouth {HW}
 paskwâwihkwaskw-\NI<sage $[usually pl: paskwâwihkwaskwa] {FC}
 paskwâyâ-\VII<be open country {LB}
-paspi\IPV<through narrow opening {AN, LB}
 paspinatiko-\VAI<have a narrow escape $[inanimate actor form of paspinat- VTA] {AN}
 paswêskôyo-\VAI<get sick from eating excessively fatty food {AN, EM}
 patakosk-\VTA<sit on s.t., press s.t. down, flatten s.t. {AN, AW}
@@ -2127,7 +1971,6 @@ pâh-pîwâhcakinasîs-\NA<December $[cf. pawâcakinasîs-] {LB}
 pâhkahahkwân-\NA<chicken $[cf. pâhpahahkwân- NA] {FC, N-1}
 pâhkahahkwânis-\NA<chick $[dim; delete from pâk-] {N-2}
 pâhkahahkwâniwiyâs-\NI<chicken meat {FC}
-pâhko\IPV<dry $[also: pâhkwi] {LB}
 pâhkwayîk-\NA<frog heard during a dry spell {AN}
 pâhpahahkwân-\NA<chicken $[cf. pâhkahahkwân- NA] {AC, LB, N-3}
 pâhpahahkwâni-mîcimâpoy-\NI<chicken soup {AC}
@@ -2144,10 +1987,8 @@ pâkahkosiwi-\VAI<be a bony spectre (i.e. in a dance or ceremony) {LB}
 pâkahkowi-\VAI<be a bony spectre (i.e. in a dance or ceremony) {LB}
 pâmpâhciwipasiw-\NA<laughter duck ?? $[or pâmpâhciwipasip-] {LB}
 pâpakwâtahw-\VTA<blister s.o., cause s.o. to blister {LL}
-pâsci\IPV<over, beyond $[cf. pâsici] {AN}
 pâsci-wêpin-\VTA<take and throw s.o. over (s.t.) {AN}
 pâsci-wêpin-\VTI<take and throw s.t. over (s.t.) {AN}
-pâsici\IPV<stepping over, skipping {LB}
 pâsikâtê-\VII<be dried {LL}
 pâskaciwaswê-\VAI<boil {AN}
 pâskâh-\VTI<break s.t. open (as an egg) {AN}
@@ -2160,7 +2001,6 @@ pâstêw-askiy-\NI<dry land, drought {AN}
 pâtakoskaw-\VTA<sit on s.o., press s.o. down {AN}
 pâtanîs-\NA< $[male personal name] {LB}
 pâwistikos-\NI<small rapid or waterfall {AN}
-pê\IPV<come and; towards, approaching; hither; thence, from there on down $[towards focus] {AC, AN, EM, FC, HW, KA, LB, LL, ME, N-3, PV, SR, SW}
 pê-api-\VAI<come and sit {AN}
 pê-atoskê-\VAI<come to work {AN}
 pê-ispâkên-\VTI<come and raise s.t. {AN}
@@ -2223,7 +2063,6 @@ pêtohtê-\VAI<come walking {LB}
 pêtowatâm-\VTA<make s.o. bring a load {LB}
 pêtowêhotê-\VII<come noisily flying {LB}
 pêyak-ispayin\IPC<one week {JO}
-pêyako\IPV<alone, only; as one {FC, LB, ME}
 pêyako-piponwê-\VAI<be one year old {AN}
 pêyakonê-\VAI<hold one alone {AN}
 pêyakoskan-\NA<one family {AN}
@@ -2261,14 +2100,11 @@ pikwîta\IPC<anywhere $[cf. piko ita] {AN}
 pikwîtowa\IPC<any kind $[cf. piko itowahk] {AN, ME}
 pimâh-\VTI<travel down the river {AN}
 pimâpako-\VAI<float downstream with the current {AN}
-pimi\IPV<along, in linear progression; while moving in linear progression $[through time and/or space] {EM, HW, KA, LB, LL, PV, SW}
-pimici\IPV<crosswise, from side, at right angle {LB}
 pimicikâstêpaYi-\VAI<have one's shadow pass by; cast a shadow in passing {AN}
 pimicinowê-\VII<blow from the side {LB}
 pimihamowi-pîsimw-\NA<October $[cf. pimihâwi-pîsimw- NA; see also kaskatino-pîsimw- NA] {N-3}
 pimihaYaYihkê-\VAI<cover s.t. with dirt {N-3}
 pimihcimê-\VAI<swim (e.g. animal, not human) {N-3}
-pimipahci\IPV<running, on the run {LB}
 pimipaYîs-\NA<runner [e.g. on a sled, wagon] {LL}
 pimipitiskanaw\IPC<on the trek {LB}
 pimisêwê-\VAI<cross hills ??; be heard passing by {LB, SR}
@@ -2294,7 +2130,6 @@ piNêw-\NA<partridge, prairie chicken $[sC; cf. pihyêw-] {LB}
 pinika\IPC<down below (?) {LB}
 pinkow-\NI<bingo $[English borrowing] {EM}
 piponâsi-\NA<chicken hawk {AN}
-pisci\IPV<accidentally, mistakenly, erroneously {AN, LB, LL}
 piscipita-\VTI<accidentally drag s.t. along {LB}
 piscipowihito-\VAI<poison one another {LB}
 pisiskês-\NA<raccoon {FC}
@@ -2317,7 +2152,6 @@ piYêsîskâ-\VII<be an abundance of birds; birds are numerous {AN}
 pîciciwikamikw-\NI<lodge for pow-wow {LB}
 pîciwâciwacôs-\NA<meadowlark {LB}
 pîhcâw\IPC<for a long distance {LB}
-pîhci\IPV<inside, in, within {AN, LB, PV}
 pîhci-wêpin-\VTA<throw s.o. into (something) {AN}
 pîhci-wêpin-\VTI<throw s.t. into (something) {AN, LB}
 pîhcipacikan-\NI<funnel {AN}
@@ -2331,12 +2165,10 @@ pîhtatiwân-\NA<quiver, case for arrows {AN}
 pîhtatiwânihkaw-\VTA<make a quiver for s.o. {AN}
 pîhtatiwânihkê-\VAI<make a quiver {AN}
 pîhtatiwânis-\NA<small quiver $[dim] {AN}
-pîhtawê\IPV<under, double {LB}
 pîhtawêkin-\NI<lining material; insulation {AN, AW, JO}
 pîhtawêsâkânis-\NI<small petticoat $[dim] {AN}
 pîhtâmohtâ-\VAIt<place s.t. in another {AN}
 pîhtâpêk-\NI<lagoon {AN}
-pîhtokê\IPV<entering to the inside, entering house {LB}
 pîhtokêwêpin-\VTA<throw, fling s.o. inside {AN, LB}
 pîhtokêwêpin-\VTI<throw, fling s.t. inside {AN, LB}
 pîhtokêyâwatâ-\VAIt<haul s.t. inside {LB}
@@ -2344,14 +2176,12 @@ pîhtowêskikan-\NA<long underwear, long-johns $[generally pl: pîhtowêskikanak
 pîkanowi-sîpiy-\NI<muddy river $[also: "pîkano-sîpiy-"; ? Missouri ?] {LB}
 pîkanowiYiniw-\NA<a Piegan Indian $[also: pîkanowînaw-] {LB}
 pîkanowiYinînâhk\IPC<in the Piegan country {LB}
-pîkiskâci\IPV<sorry, sad, lonely {LB}
 pîkiskwêstaw-\VTA<speak for s.o., speak on s.o.'s behalf {LB}
 pîkohîtâ-\VAIt<break s.t. on something {LB}
 pîmakâmêpit-\VTA<strap s.o. on, harness s.o. {LB}
 pîmâhcawêpakw-\NA<kind of tobacco {LB}
 pîmâpiskâ-\VII<be crooked (something made of metal) {AN}
 pîmâpiskisi-\VAI<be twisted (something made of metal) {AN}
-pîmi\IPV<twisted {LB}
 pîminikan-\NA<twist-tobacco; wrench {AN, LB, SW}
 pîmisawâs-\VTA<cut s.o. crooked (not straight) {AW, JO}
 pîmisawât-\VTI<cut s.t. crooked (not straight) {AN}
@@ -2367,13 +2197,10 @@ pîstêwaciwâtâ-\VAIt<boil s.t. until a scum appears {JO}
 pîswêkin-\NI<woollen material {AN}
 pîswêmaskimot-\NI<flannel bag {LB}
 pîtâtowêw-\NA<European, immigrant {FC}
-pîtosi\IPV<different, foreign {LB}
 pîwaniYôtin-\VII<be a blizzard {EM}
 pîwâpihkonâs-\NA< $[male personal name] {LB}
-pîwi\IPV<small {LB}
 pôhpôtât-\VTA<blow on s.o. $[rdpl] {LB}
 pôhpôtât-\VTI<blow on s.t. $[rdpl] {LB}
-pôni\IPV<stop, terminate, cease; after {AC, AN, EM, FC, LB, LL, ME, PV, SR, SW}
 pôni-pimâtisiwin-\NI<death {AC}
 pôni-YêhYê-\VAI<stop breathing $[cf. wC: thihthî-] {AN}
 pôni-YêhYêwin-\NI<end of existence; death $[cf. wC: thihthîwin-] {AN}
@@ -2383,11 +2210,9 @@ pôsiwêpah-\VTI<throw s.t. on board (using a fork or stick) {AN}
 pôsiwêpahw-\VTA<knock s.o. aboard by tool; throw s.o. aboard {AN, LB}
 pôsiwêpin-\VTA<throw s.o. in (a vehicle) {AN}
 pôsiwêpin-\VTI<throw s.t. in (a vehicle), throw s.t. on (a conveyance) {AN, PV}
-pôsko\IPV<the same {LB}
 pôyak?-\NA< $[male personal name] {LB}
 pwâkamahkwê-\VAI<vomit blood $[also: pwâkomohkwê-] {AN, LB}
 pwâmêkan-\NA< $[male personal name] {LB}
-pwâna\IPV<unable, fail to {LB}
 pwânês-\NA<Little Paul $[male personal name; also: pônês-] {LB}
 sa-sâkiskwê-\VAI<poke one's head out of a hole (as a gopher) $[rdpl; cf. sâkiskwê-] {AN}
 sa-sâpikanê-\VAI<have sturdy bones; have strong bones $[rdpl; cf. sâpikanê-] {AN}
@@ -2400,7 +2225,6 @@ sa-sîpêYim-\VTA<be patient with s.o. $[rdpl] {AN}
 sa-sîpîpit-\VTA<stretch s.o. repeatedly $[rdpl; cf. sîpîpit- VTA] {AN}
 sa-sîpîpit-\VTI<stretch s.t. repeatedly $[rdpl; cf. sîpîpit- VTI] {AN}
 sahkwâtamow-\NA<hawk (the larger species) $[cf. sasâkwatêmow-] {AN}
-sakamo\IPV<ceaselessly  ?? {LB}
 sakamotêYaniwê-\VAI<mumble; hold one's tongue {LB}
 sakapwânâsk-\NI<stick for roasting $[cf. wC: apwânâskw-] {AN}
 sakatahkahkwanên-\VTA<seize s.o. by the wing {LB}
@@ -2418,7 +2242,6 @@ sasâkinisitê-\VAI<go barefoot, have bare feet {AN, LB}
 sasâkwatêmow-\NA<chicken hawk $[cf. sahkwâtamow-, sâkwahtamow-] {LB}
 sasâpômin-\NA<gooseberry $[cf. sâpômin-] {LB}
 sasâpôminâhtikw-\NA<gooseberry bush $[cf. sâpôminâhtikw-] {LB}
-saskaci\IPV<weary, tired of {LL}
 saskamowêpin-\VTA<throw (it/him) into s.o.'s mouth for him {LB}
 saskanatin-\NI<chinook wind $[perhaps saskanôtin- ??; perhaps VII "be a chinook wind"] {AN}
 saskatât-\VTI<be tired of eating the same food {AN}
@@ -2432,7 +2255,6 @@ sâkaciwahtê-\VII<stick out at the top in boiling {LB}
 sâkaciwaso-\VAI<stick out at the top in boiling {AW, JO}
 sâkanâpiy-\NI<rawhide cord ?? {AN}
 sâkaskinêpatâ-\VAIt<fill s.t. to the brim {AN}
-sâkêwê\IPV<behind obstacle to vision, into view {LB}
 sâkistikwân-\VTA<uncover s.o.'s head {AN}
 sâkitawâhk\INM<Ile à la Crosse, SK {FC}
 sâkitawâhk\IPC<at the mouth of a river {AN}
@@ -2451,7 +2273,6 @@ sâpohtak?-\NI<(rifle) ?? {LB}
 sâpohtawêyâ-\VII<have an opening at each end {AN}
 sâpokêhcâw-\NI<wet ground {LB}
 sâpopêmiskanawê-\VAI<go cross country; ?? leave wet tracks, leave tracks in wet ground ?? {LB}
-sâposci\IPV<through {LL}
 sâpowêYawiho-\VAI<fly through the body {LB}
 sâsakiciwêpah-\VTI<knock s.t. supine by a shot {LB}
 sâsakiciwêpahw-\VTA<knock s.o. supine by a shot {LB}
@@ -2467,26 +2288,20 @@ sêkohkin-\VTI<empty s.t. {FC}
 sêkwamo-\VII<slip underneath, be underneath {LL}
 sênipânêkin-\NI<satin, silk {AN, FC, LB}
 sêsâw-âyâ-\VAIt<rest s.t. {LB}
-sêsâwi\IPV<stretching, exercising {AW, LB}
 sêsêkan-\VII<hail {AN, LB}
 sêsêkwapitêho-\VAI<pick one's teeth {LB}
 sêsêsiminaskosîmin-\NI<crust (?) berry {LB}
 sêsikîh-\VTA<let s.o. get near (?) {LB}
 sêskipaYihtwâ-\VAIt<beach s.t. (using a motor) {LB}
-sikaci\IPV<impatiently {LB}
 sikahtê-\VAI<strike fire with flint and steel {LB}
 sikâkoskwêw-\NA<skunk woman {LB}
 sikâwihkwâmi-\VAI<take a nap {LB}
 sikêpistâhtikw-\NA<a certain tree {LB}
 sikîhkwâmiski-\VAI<be a bed-wetter {MT}
 sikokâhtâ-\VAI<have hiccups {AN}
-simaci\IPV<upright; straightened {JO}
-sipwê\IPV<leaving, departing, going away; starting out, commencement {AN, EM, LB, ME}
 sipwêYâsi-\VAI<blow away (as a boat with sails) {AN}
 sipwêYâstan-\VII<blow away {AN}
 sipwêYâstitâ-\VAIt<start s.t. sailing {AN}
-sisikoci\IPV<suddenly {LB}
-sisiwê\IPV<spread, scatter {AN}
 sisonêpêk\IPC<along the water; edge of the lake {AN}
 sisôtêw\IPC<at the edge of the plain {LB}
 siswahikan-\NI<paint; linament; lotion {AN}
@@ -2510,7 +2325,6 @@ sîhtwâskwahikan-\NI<prop; pillar {AN}
 sîhtwâskwahw-\VTA<prop s.o. up {AN}
 sîkah-\VTA<comb s.o. {AN}
 sîkahasiniyê-\VAI<pour onto a stone {LB}
-sîkawi\IPV<pouring, flooding {LB}
 sîkihp-\NI<boil, skin eruption $[cf. sîhkihp-] {LB}
 sîkiskâto-\VAI<be tight in a room; ?? {AN}
 sîkopwâtin-\VTA<strain s.o., sift s.o. {AN}
@@ -2529,23 +2343,17 @@ sîpêYiht-\VAI<be patient; bear s.t. without complaining {AN}
 sîpihko-papakowayân-\NI<blue shirt {FC}
 sîpiyâwêsi-\VAI<be not easily provoked, be tolerant {AN, JO}
 sîpiyâwêsiwin-\NI<long suffering; patience, tolerance {AN, JO}
-sîsîpi\IPN<duck {LL}
 sîsîpokat-\N?<gun hammer; the long head of the old N.W. guns {AN}
 sîwanos-\NI<sweet, candy $[also: sîwinôs-] {AC, FC, N-2}
 sîwinikan-\NA<sugar, sweetener $[see also sôkâw-] {AC, AN, FC, LB, ME, N-1}
 sîwinikê-\VAI<sweeten one's tea; use sugar {AN, PV}
 sîwîhtâkamêwâpoy-\NI<brine {AN}
-sôhkahât\IPV<greatly, powerfully {PV}
 sôhkiYôwê-\VII<be very windy, be a strong wind {FC}
-sôniyâwi\IPC<with respect to money, in finacial matters {EM}
 sôniyâwipîwayê-\VAI<have golden feathers {LB}
 sôskwanâtahiwin-\NI<skating {LB}
 sôsosis-\NA<donkey {AN}
 (sôyiyân-\NA<change (pl); ?? $[sp ??: "sôyiyânak"; cf. sôniyâwak, sôniyâsak "spare change" ??] {LB}
-ta\IPV< [grammatical preverb] $[future; infinitive; cf. ka IPV, kika IPV, kita IPV, tita IPV] {AC, FC, HW, KA, LL, ME, PV}
-ta-kî\IPV<can, be able to; should, ought to $[cf. ka-kî IPV] {FC, LL, SR}
 taciwih-\VTA<get ahead of s.o. {EM}
-tahci\IPV<coming apart, undone {AN}
 tahkatêskâcikan-\NI<spur {LB}
 tahkatêskâcikê-\VAI<apply spurs {AW, JO}
 tahki ayiwâk\IPH<increasingly, more and more; getting to be $[also: tahk âyiwâk] {AN, EM}
@@ -2554,8 +2362,6 @@ tahkipiskwanê-\VAI<have a cold back {AN}
 tahkipiskwanêwaci-\VAI<have a freezing back, catch cold on one's back from a draft {AN, JO}
 tahkiYawêpaYi-\VAI<feel cold in one's body {AN}
 tahkohc-âYihk\IPC<at the top, on top of the place $[wC: tahkohc-ahthihk] {HW, LB}
-tahkohci\INM<On-Top $[personal name] {HW}
-tahkohci\IPV<on top {HW, LB}
 tahkopicikêw-\NA<one who ties parcels {AN}
 tahkosi-\VAI<be short (in height ??) {LB}
 tahkwâ-\VII<be short (in height ??) {LB}
@@ -2568,7 +2374,6 @@ tahtw-aya\IPC<so many $[also: tahto-aya] {EM}
 tahtw-âskiy\IPC<so many years, as many years $[also: tahto-askiy] {EM}
 tahtw-âyamihêwi-kîsikâw\IPC<every Sunday {EM}
 takahkâciwasom-\VTA<cook someone well {LL}
-tako\IPV<in adddition to, on top, over and above; with, having along, also {LB, LL}
 takôtâni\IPC<it is a good thing $[colloquial] {FC}
 takw-âh-\VTA<put more of s.o. in $[also: tako-ah-] {JO}
 takw-âstâ-\VAIt<put more of s.t. in $[also: tako-astâ-] {AN, JO}
@@ -2584,8 +2389,6 @@ tawâyihk\IPC<between the places, in the place between {LB}
 tawêst-\VTI<make room for s.t. to go by {JO}
 tawêstaw-\VTA<make room for s.o. to go by {AN}
 tawipaYihiko-\VAI<have time {ME}
-tâh\IPV<would, ought to; likely to $[cf. kâh IPV] {LL}
-tâhci\IPV<on the top {AN}
 tânana\PR<which one [anim prox sg] $[also: "tân-âna"] {FC, LB, ME}
 tâni\IPC<which one [anim prox sg / inan sg] {EM, HW, SR}
 tânihi\PR<which one, which ones [anim obv / inan pl] {AN, EM, FC, HW, LB, ME}
@@ -2601,9 +2404,7 @@ tânôtâni\IPC<how much, how great {LB}
 tâpakwamow-\VTA<set snares for s.o. {ME}
 tâpakwêwêpin-\VTA<lasso s.o. {LB, PV}
 tâpakwêwêpin-\VTI<lasso s.t. {LB, PV}
-tâpi\IPV<through the same place {LB}
 tâpipi-\VAI<take another's place {AN}
-tâpisi\IPV<threading, inserting {LB}
 tâpiskâkan-\NA<scarf, necktie; necklace; handkerchief {AN, FC}
 tâpiskâkan-\NI<collar, horse-collar; necklace {AN, FC, LB}
 tâpitâwâkonakâ- \VII<be level snow {LB}
@@ -2625,16 +2426,13 @@ tâwinikê-\VAI<make space; put things aside {AN}
 tâwipîstaw-\VTA<give s.o. a place to sit {AN}
 tâyispî\IPC<when $[cf. tânispî, tânispîhk] {LB, PV}
 tê-\VAI<exist (??) $[cf. ihtâ- VAI, ihtako- VAI] {LB}
-têhci\IPV<on, on top of something {HW, LB}
 têhcikâpawi-\VAI<stand on something {AN, LB}
 têpakohptahtwâpisk\IPC<seven dollars {FC}
 têpêYihcikê-\VAI<own; have ownership {AN}
 têpêyin-\VTA<be content with s.o. {LB}
-têpi\IPV<sufficiently; enough, reaching {AN, LB, SW}
 têpiwi-\VAI<tape s.t. [e.g. on a cassette recorder] $[English loan] {LL}
 têtipêwêYâpîhkêsin-\VAI<lie as coiled string {LB}
 têtipin-\VTI<roll s.t. {LB}
-(têyi\IPV<pain $[cf. têwi] {AN})
 tihkâpâwatâ-\VAIt<dissolve s.t. {AN}
 tihkâpâwê-\VII<dissolve {AN}
 tihtipipaYi-\VAI<roll {LB}
@@ -2651,11 +2449,8 @@ tipapêskoh-\VTA<weigh s.o. {AN}
 tipapêskotâ-\VAIt<weigh s.t. {AN}
 tipâtiskwêYi-\VAI<put one's head down {FC}
 tipênimâkan-\NA<domestic animal {LB}
-tipi\IPV<equal {LB}
 tipiskiwin-\NI<darkener {AN}
 tistamâso-\VAI<sing a lullabye {AN}
-tita\IPV< [grammatical preverb] $[future; cf. ka IPV, kika IPV, kita IPV, ta IPV] {LL}
-tômi\IPV<oily, greasy {AN}
 tôwi\IPV<kind of {LB}
 tôwihkân-\NI<kind, type, sort {LB}
 twêhomakan-\VII<land (from flight) $[also: tôhomakan-] {FC, ME}
@@ -2667,14 +2462,12 @@ itihkâhtê-\VII<be cooked in a certain way {AN}
 itowêhkâm\IPC<the same kind {AN}
 otôminikêw-\NA<one who oils or greases {AN}
 wacaskâ-\VAI<limp $[cf. watiskâ- VAI] {LB}
-wahkê\IPV<addicted to, easily led to {LB}
 wahkêpômêwin-\NI<discouragement {AN}
 wahpamêko-pimiy-\NI<fish oil {AN}
 wahpamêkos-\NA<half grown whale or fish {AN}
 wahpamêkosis-\NA<young whale or fish {AN}
 wahpamêkw-\NA<whale; fish {AN, FC}
 wahyakay-\NA<fish scale $[cf. wahakay-] {LB}
-wani\IPV<dim, dark, indistinctly, blurred; lose; destroy {EM, HW, LB}
 wani-tipiskâ-\VII<be very dark, be a very dark night {EM, FC}
 wanihitôt-\VTI<sin; ?? {FC}
 wanitipiskipaYi-\VII<darken (e.g. an eclipse) {AN}
@@ -2700,7 +2493,6 @@ wayakay-\NA<fish scale $[usually pl: wayakayak] {FC}
 wayakêskw-\NA<bark {LB}
 wayanohtah-\VTA<take s.o. back {FC}
 wayanohtatâ-\VAIt<take s.t. back {FC}
-waYawî\IPV<outside; out from inside, out from the tipi {LB, PV}
 waYawî-Yâhkin-\VTA<push s.o. out {AN}
 waYawî-Yâhkin-\VTI<push s.t. out {AN}
 waYawîhta\IPV<out (through the door ?) {LB}
@@ -2710,7 +2502,6 @@ waYawîwêpin-\VTA<throw s.o. out {LB}
 waYawîwêpin-\VTI<throw s.t. out {LB}
 waYawîwêpiskaw-\VTA<kick s.o. out {LB}
 waYâsti-\VII<quiet down (e.g. wind) {LB}
-wayêsi\IPV<deceitfully  {LB}
 wayêsiyaw-\VTA<get s.o. by deceit {LB}
 wayisk-\VTI<disturb s.t. (?) {LB}
 wâ-wâpaht-\VTI<examine s.t. $[rdpl] {HW}
@@ -2732,7 +2523,6 @@ wâkaYôsi-wât-\NI<bear den $[sg: wâkayôsi-wâti] {HW}
 wâkaYôsiwayân-\NA<bear skin {LB}
 wâkaYôsiwi-\VAI<be a bear {LB}
 wâkâhkatiso-\VAI<be bent from dryness or hunger (as a tree) {AN}
-wâki\IPV<curving {LB}
 wâkipiskwanê-\VAI<have a bent back {AN}
 wânanopêhikan-\NI<heart (at cards) {LB}
 wâpahtêh-\VTA<show (it/him) to s.o. {LB}
@@ -2740,12 +2530,10 @@ wâpahtawin-\NI<seeing one another {LB}
 wâpakwanîw-\NI<flower {LB}
 wâpamonâpis-\NI<mirror $[cf. wâpamon- NI; wâpamonâpiskw- NI] {N-3}
 wâpanatahkw-\NA<morning star {LB}
-wâpani\IPV<dawn; at, until dawn $[cf. wâpan- VII] {LB, LL}
 wâpanohtêw-\NA<Walks-til-Dawn $[female personal name] {EM}
 wâpaskamimatin-\VII<be a hoarfrost {LB}
 wâpaspinêwin-\NI<leprosy {AN}
 wâpêwân-\NI<hip-flesh {LB}
-wâpi\IPN<white {HW, LB}
 wâpicicâkw-\NA<white crane ?? {LB}
 wâpiciyâpi-\VAI<be white eyed {LB}
 wâpinômin-\NA<rice {FC}
@@ -2754,13 +2542,10 @@ wâpisiw-sâkahikan-\NI<Swan Lake ?? {AN}
 wâpisîhpan-\NI<white water potato $[Ojibwa ?] {LB}
 wâpisîwatahpinê-\NI<white water potato $[Ojibwa ?] {LB}
 wâpiskahikos-\NI<chalk {AN}
-wâpiski\IPN<white {HW, LB}
 wâpiski-mâhkêsîs-\NA<white fox {AN}
 wâpiskîhkwêhon-\NI<face powder {LB}
 wâposâwipakwahtêhon-\NI<yellow belt {FC}
-wâposo\IPN<rabbit {LL}
 wâpowêyân-\NI<blanket {LB}
-wâpôhki\IPV<white  {LB}
 wâs-\VTI<flash s.t. $[rdpl and pl: wâ-wâsamwak "there is lightning"] {LB}
 wâsahîhkaso-\VAI<be burned transparent {LB}
 wâsakâmask-\VTI<walk around s.t. {AN}
@@ -2769,8 +2554,6 @@ wâsakâpîstâ-\VAIt<sit around s.t. {AN}
 wâsaskotêpicikanis-\NI<flash light $[dim] {AN}
 wâsaskwêcôwas-\NA<apple {LB}
 wâsaskwêtôw-\NI<birch fungus {LB}
-wâsâ\IPV<around ?? {AN}
-wâsê\IPV<clear; bright {AN}
 wâsênamawin-\NI<window $[cf. wâsênamân- NI, wâsênikan- NI] {AN, FC, LB, N-1}
 wâsênamawinis-\NI<small window $[dim] {AN}
 wâsênâsin-\VII<be brightness showing, be a little bright {AN}
@@ -2791,7 +2574,6 @@ wâwinipêhikan-\NI<heart (at cards) {LB}
 wâwinipit-\VTA<pull s.o. back {LB}
 wâwipahkwêsikan-\NA<cake {AC}
 wâwiyakêhkot-\VTI<whittle s.t. round {LB}
-wâwiyê\IPV<round, spherical {LB}
 wâyinopêhikan-\NI<heart (at cards) {LB}
 wâyinosi-\VAI<be round {LB}
 wâyipêhipân-\NI<hollow ground with water to use {AN}
@@ -2801,7 +2583,6 @@ wâyonakotê-\VII<fly back, come back (e.g. boomerang) {JO, LB}
 wâyonâmo-\VAI<flee back, turn back in flight {JO, LB}
 wâyonîstaw-\VTA<withdraw from s.o., turn back form s.o. {JO, LB}
 wâyonohtah-\VTA<go back with s.o., take s.o. back {JO, LB}
-wêhci\IPV<easily {LL}
 wêpinêskwân-\N?<sling shot {AN}
 wêpiyawî-\VAI<play the hiding and guessing game {LB}
 wêtinahk\IPC<leisurely, quietly, in peace {EM, LB, LL}
@@ -2844,9 +2625,7 @@ wiYiYi-\VAI<be fat (i.e. non-human) {LB}
 wiYîpi\IPV<dirty looking, dull brown, drab {LB}
 wiYîpihkwê-\VAI<have a dirty face {LB}
 wiYîpisi-\VAI<be dirty looking {LB}
-wî\IPV<intend to, be about to $[changed conjunct form: wâ] {AC, AN, EM, FC, HW, KA, LB, LL, ME, N-3, PV, SR, SW}
 wîci\IPC<one of one's own kind; fellow {AN}
-wîci\IPV<together with {AC, LB, ME}
 wîci-âpihtâw-kîsikanêm-\VTA<eat dinner with s.o. {AN}
 wîci-miyawâtamom-\VTA<rejoice with s.o. $[cf. miyawât-] {AN}
 wîci-piponisêm-\VTA<winter with s.o. {AN}
@@ -2859,29 +2638,24 @@ wîcisomôm-\VTA<dance with s.o. {FC}
 wîcisomômito-\VAI<dance with one another {FC}
 wîhcêkaskosîwi-sâkahikanihk-\INM<Onion Lake, SK $[place name] {EM}
 wîhkasko-kisêyin-\NA<Sweetgrass, "Old-man-sweetgrass", Crow man who became one of the leading Cree chiefs in the Battleford region $[see also nakiwacîhk] {LB}
-wîhki\IPN<sweet; fragrant {AC, AN}
 wîhkimahkaso-\VAI<smell sweet in burning {SW}
 wîhkimâkwahon-\NI<perfume {LB}
 wîhkot-\VTI<whittle s.t. {AN}
 wîhkot-\VTA<whittle s.o. out of wood {AN}
 wîhkotamaw-\VTA<whittle (it/him) for s.o. {AN}
 wîhkwêpan-\NI<long underwear; overalls {FC, LB}
-wîhpi\IPV<hollowing out {LB}
 wîhtikôhkânimîciwin-\NI<popcorn {FC}
 wîkiht-\VTI<live with s.t. {AN}
 wînimahkahkw-\NI<garbage pail, slop pail {FC}
 wîninokohcaskoyisip-\NA<dock knee duck; ?? {LB}
 wîpatawâskwahikêw-\NI<clavicle; ?? {MT}
 wîpâtayiwinis-\NI<dirty clothing, dirty article of clothing $[usually pl] {EM}
-wîpi\IPV<dirty, unclean {AN}
 wîpicîsis-\NA<goldeye $[also: wîpicisîs-] {FC, LB}
-wîpo\IPV<narrow {LB}
 wîsakâhpinê-\VAI<have strong pains; suffer with much pain {AN, MT}
 wîsakâhpinêwin-\VAI<suffering, a painful disease {AN}
 wîsakâhpiso-\VAI<have a bandage which is too tight {AN}
 wîsakâhpit-\VTA<tie s.o. too tight, be in pain from being tied {AN}
 wîsakâm-\VTA<bite s.o. hard, bite s.o. painfully {AN}
-wîsaki\IPV<painfully {LB}
 wîsakîmin-\NI<cranberry, bog cranberry {AN, EM, LL}
 wîsakîpakos-\NI<bitter herb {AN}
 wîsam-\VTA<cut (it/him) out for s.o. {AN}
@@ -2889,7 +2663,6 @@ wîsawit-\VTI<make up one's mind; tell others what to do {AN}
 wîskwêpit-\VTA<wind, bandage s.o. about {LB}
 wîst-\NI<beaver lodge; muskrat house $[sg: wîsti] {AN, HW, LB}
 wîstihkânis-\NI<small haystack $[dim] {AN}
-wîto\IPV<want, intend {AN}
 yahkin-\VTI<push s.t., push s.t. forward {AC}
 yahkisin-\VII<be light (in weight) {FC, SR} $[also "yahkasin-"]
 yahkîmo-\VAI<grow; have progeny {LB}
@@ -2998,7 +2771,6 @@ yôtinipayi-\VII<be a gust of wind {LB}
 yôtinipêstan-\VII<rain with wind {LB}
 yôwaht-\VTI<draw s.t. by suction {LB}
 yôwam-\VTA<pull at s.o. by suction {LB}
-Yahki\IPV<act of pushing forward; increasing, increasingly, adding, more and more $[cf. tahki]
 Yâhki\IPC<known by tradition; be like, pretense of doing ??
 YâYaw\IPC<rather, instead $[cf. iyâyaw]
 YiYîkopîwi-pîsimw-\NA<November [wC: thithihkopiwi-pîsimw-]
@@ -3007,4 +2779,3 @@ Yîhkahw-\VTA<bail liquid out of s.o.
 Yîpêyâmatin-\NI<hill, slope
 Yôhtêkohtâ-\VAIt<leave s.t. ajar, open
 Yôhtêpitamaw-\VTA<pull (it/him) open for s.o.
-Yôski\IPV<soft, softly $[also: yôsk]
