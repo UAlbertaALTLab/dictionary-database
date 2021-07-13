@@ -28,6 +28,16 @@
 \def  yes
 \dl   Cree: npC
 
+\test copies the glosses as an Array
+\sro  acâhkos
+\syl  ᐊᒑᐦᑯᐢ
+\ps   NA-1
+\def  star, little star
+\dl   Cree: pC
+\dl   Cree: wC
+\gl   star
+\gl   little
+
 \test does not include punctuation
 \sro  awahêk!
 \syl  ᐊᐊᐧᐦᐁ
