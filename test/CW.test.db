@@ -38,6 +38,12 @@
 \gl   star
 \gl   little
 
+\test copies the full POS code verbatim
+\sro  acâhkos
+\syl  ᐊᒑᐦᑯᐢ
+\ps   NA-1
+\def  star, little star
+
 \test does not include punctuation
 \sro  awahêk!
 \syl  ᐊᐊᐧᐦᐁ
