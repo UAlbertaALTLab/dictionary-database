@@ -1,6 +1,14 @@
 \_sh v1.0 9999 Plains Cree
 \_DateStampHasFourDigitYear
 
+\test combines multiple dialect codes
+\sro  wâpańôminak
+\syl  ᐋᐧᐸᓅᒥᓇᐠ
+\ps   NA-1
+\def  rice, kernels of white rice
+\dl   Cree: pC
+\dl   Cree: sC
+
 \test constructs the head
 \sro  awahêk!
 \syl  ᐊᐊᐧᐦᐁ
@@ -12,6 +20,13 @@
 \syl  ᐊᒋᒋᐸᔨᐦᐅᐤ
 \ps   VAI-1
 \def  s/he throws him/herself head first, falling forward; s/he throws him/herself on all fours; s/he somersaults
+
+\test converts dialects to Glottocodes
+\sro  îhî
+\syl  ᐄᐦᐄ
+\ps   IPJ
+\def  yes
+\dl   Cree: npC
 
 \test does not include punctuation
 \sro  awahêk!
