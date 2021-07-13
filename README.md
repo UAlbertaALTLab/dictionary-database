@@ -23,7 +23,7 @@ ALTLab's dictionary database is / will be aggregated from the following sources:
 * [Arok Wolvengrey][Arok]'s [_nêhiyawêwin: itwêwina / Cree: Words_][CW] (`CW`)
   - This is a living source.
 * [Maskwacîs][Maskwacis] [_Nehiyawêwina Pîkiskwewinisa / Dictionary of Cree Words_][MD] (`MD`)
-  - This a living source.
+  - This a static source. We are using a manually-edited version of the original dictionary.
 * _Alberta Elders' Cree Dictionary_ (`AECD` or `AE` or `ED`)
   - This is a static source.
 * [Albert Lacombe][Lacombe]'s _Dictionnaire de la langue des Cris_ (`DLC`)
